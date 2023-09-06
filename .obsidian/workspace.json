@@ -62,14 +62,11 @@
             "id": "a01c5b564f48c7a3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "android/nav/Untitled.canvas",
-                "viewState": {
-                  "x": -16.343527207374564,
-                  "y": 9.806115925312042,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "0b9fc11e4afc24e9"
@@ -85,14 +82,11 @@
             "id": "86ec8f05292103cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "android/nav/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "0b9fc11e4afc24e9"
@@ -163,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/nav/Untitled.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/nav/Untitled.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/nav/Untitled.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -224,9 +218,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98ade20e0691fab3",
+  "active": "a01c5b564f48c7a3",
   "lastOpenFiles": [
+    "link_to_your_logo_image.png",
+    "link_to_your_logo_image.md",
     "README.md",
+    "2023-06-logo.png.opdownload",
+    "android/nav/Untitled.canvas",
+    "arch_linux (1)/install_program.md",
+    "arch_linux (1)/arch_linux_install.canvas",
+    "arch_linux (1)/touchpad.md",
+    "arch_linux (1)",
     "android/nav/code_samples",
     "android/courses/Coroutines.md",
     "android/Android.md",
@@ -234,7 +236,6 @@
     "android/second_interview/helper for hint/firebase.md",
     "android/second_interview/Hint.md",
     "arch_linux/arch_linux_install.canvas",
-    "android/nav/Untitled.canvas",
     "Untitled.md",
     "android/nav",
     "android/second_interview/helper for hint",
@@ -244,8 +245,6 @@
     "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/SourceLocationMapping.kt",
     "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/SourceLocation.kt",
     "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/Box.kt",
-    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.tests/test/org/jetbrains/kotlin/wasm/test/converters/FirWasmKlibBackendFacade.kt",
-    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.tests/test/org/jetbrains/kotlin/wasm/test/tools/WasmVM.kt",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/secondary-constructors.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/reified-type-parameters.md",
@@ -260,10 +259,6 @@
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/dynamic-types.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/annotation-options.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/annotation-arguments.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/ReadMe.md",
-    "android/Kotlin/kotlinlang.org/kotlin/repo/scripts/Readme.md",
-    "android/Kotlin/kotlinlang.org/kotlin/repo/gradle-settings-conventions/Readme.md",
-    "android/Kotlin/kotlinlang.org/kotlin/repo/artifacts-tests/README.md",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_task.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_launcher.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_launcher.png",
@@ -272,7 +267,6 @@
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_task.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_launcher.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_launcher.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-hdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-hdpi/ic_task.png"
   ]
 }
