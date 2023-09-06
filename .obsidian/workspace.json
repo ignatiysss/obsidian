@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "ea7c416013958df5",
+    "type": "split",
+    "children": [
+      {
+        "id": "afb79c612bbcb0d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da32ae21b710e9b1",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "arch_linux/arch_linux_install.canvas",
+                "viewState": {
+                  "x": -155.22852496676074,
+                  "y": -57.353818166228294,
+                  "zoom": 0.19999999999999996
+                }
+              }
+            }
+          },
+          {
+            "id": "b94c98bba65a1f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "arch_linux/install_program.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6fe29a88d21d808",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/Android.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4673501c0d9607c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "android/first_interview/First interview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a01c5b564f48c7a3",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "android/nav/Untitled.canvas",
+                "viewState": {
+                  "x": -16.343527207374564,
+                  "y": 9.806115925312042,
+                  "zoom": 0
+                }
+              }
+            },
+            "group": "0b9fc11e4afc24e9"
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "eafaf460a8eb3f1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86ec8f05292103cc",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "android/nav/Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            },
+            "group": "0b9fc11e4afc24e9"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "899bedf26f5d0cce",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b55d6ad8f0197dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98ade20e0691fab3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6d7ad6bc74358fb4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#firebase-realtimedatabase",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8f801a031c8fee21",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "64c2b42bbdff67fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b0ac7d04e8a8813",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a093f3f02d48f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "android/nav/Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ca62f0605cfa900c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "android/nav/Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31c75e7371427832",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "040f8b3f254bceba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "android/nav/Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98ade20e0691fab3",
+  "lastOpenFiles": [
+    "README.md",
+    "android/nav/code_samples",
+    "android/courses/Coroutines.md",
+    "android/Android.md",
+    "android/courses",
+    "android/second_interview/helper for hint/firebase.md",
+    "android/second_interview/Hint.md",
+    "arch_linux/arch_linux_install.canvas",
+    "android/nav/Untitled.canvas",
+    "Untitled.md",
+    "android/nav",
+    "android/second_interview/helper for hint",
+    "arch_linux/touchpad.md",
+    "android/second_interview",
+    "android/first_interview/First interview.md",
+    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/SourceLocationMapping.kt",
+    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/SourceLocation.kt",
+    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/Box.kt",
+    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.tests/test/org/jetbrains/kotlin/wasm/test/converters/FirWasmKlibBackendFacade.kt",
+    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.tests/test/org/jetbrains/kotlin/wasm/test/tools/WasmVM.kt",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/secondary-constructors.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/reified-type-parameters.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/operator-conventions.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/name-resolution-motivation.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/multi-declarations-in-parameters.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/jvm-native-flag-support.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/javascript-interop.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/function-types.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/flexible-java-types.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/enums.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/dynamic-types.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/annotation-options.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/annotation-arguments.md",
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/ReadMe.md",
+    "android/Kotlin/kotlinlang.org/kotlin/repo/scripts/Readme.md",
+    "android/Kotlin/kotlinlang.org/kotlin/repo/gradle-settings-conventions/Readme.md",
+    "android/Kotlin/kotlinlang.org/kotlin/repo/artifacts-tests/README.md",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_task.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_launcher.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_launcher.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_task.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_task.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_task.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_launcher.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_launcher.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-hdpi/ic_task.png",
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-hdpi/ic_launcher.png"
+  ]
+}
