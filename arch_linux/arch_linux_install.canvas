@@ -8,7 +8,8 @@
 		{"type":"text","text":"pacstrap  /mnt base linux linux-firmware sudo nano networkmanager gdisk refind","id":"a6ba8ddf652e0f8c","x":-680,"y":140,"width":250,"height":130},
 		{"type":"text","text":"genfstab -U /mnt >> /mnt/etc/fstab","id":"47dbe6e8689be7eb","x":-320,"y":-400,"width":250,"height":60},
 		{"type":"text","text":"echo Laptop >> /etc/hostname","id":"54cc42b96470be1e","x":60,"y":-400,"width":250,"height":60},
-		{"type":"text","text":"127.0.1.1 localhost.localdomain Laptop","id":"946d3328f4520def","x":60,"y":-310,"width":250,"height":100},
+		{"type":"text","text":"nano /etc/hosts
+127.0.1.1 localhost.localdomain Laptop","id":"946d3328f4520def","x":60,"y":-310,"width":250,"height":100},
 		{"type":"text","text":"systemctl enable NetworkManager","id":"06de37569d148d9e","x":60,"y":-160,"width":250,"height":60},
 		{"type":"text","text":"useradd -m -g users -G wheel -s /bin/bash ignatiys","id":"c82dc1db9358a64b","x":60,"y":-60,"width":250,"height":100},
 		{"type":"text","text":"passwd\n","id":"c7b896b85a3cd9e0","x":60,"y":90,"width":250,"height":60},
