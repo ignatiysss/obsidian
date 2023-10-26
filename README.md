@@ -1,6 +1,6 @@
 # Android and Arch Linux Cheatsheets
 
-![Project Logo](link_to_your_logo_image.png)
+![Project Logo](obsidian_logo_image.png)
 
 Welcome to the Android and Arch Linux Cheatsheets repository! This repository contains handy cheatsheets and quick reference guides for Android development and Arch Linux usage.
 
@@ -10,7 +10,7 @@ This repository is a collection of cheatsheets designed to help developers and L
 
 ## Contents
 
-- [Android Cheatsheets](android/)
+- [Android Cheatsheets](/android/Android.md)
   - [Basic ADB Commands](android/basic-adb-commands.md)
   - [Android Studio Shortcuts](android/android-studio-shortcuts.md)
   - [Android UI Design Tips](android/android-ui-design-tips.md)
