@@ -31,11 +31,14 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "arch_linux/install_program.md",
-                "mode": "source",
-                "source": false
+                "file": "android/nav/Count_of_navigatione.canvas",
+                "viewState": {
+                  "x": -598.94,
+                  "y": -706.6100000000001,
+                  "zoom": 1
+                }
               }
             }
           },
@@ -45,7 +48,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "dravble/top-app-bar.png"
+                "file": "drawble/top-app-bar.png"
               }
             }
           },
@@ -140,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/nav/Count_of_navigatione.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/nav/Count_of_navigatione.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/install_program.md"
+                "file": "android/nav/Count_of_navigatione.canvas"
               }
             }
           },
@@ -213,21 +216,21 @@
   },
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "android/android-studio-shortcuts.md",
+    "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
     "arch_linux/install_program.md",
     "arch_linux/touchpad.md",
     "README.md",
     "arch-linux.md",
-    "android/android-studio-shortcuts.md",
-    "android/basic-adb-commands.md",
     "android/Android.md",
-    "dravble/obsidian_logo_image.png",
+    "drawble/obsidian_logo_image.png",
     "android/nav/Count_of_navigatione.canvas",
-    "dravble/nav_drawer.png",
-    "dravble/top-app-bar.png",
+    "drawble/nav_drawer.png",
+    "drawble/top-app-bar.png",
     "android/first_interview/First interview.md",
     "dravble/link_to_your_logo_image.png.opdownload",
-    "dravble",
+    "drawble",
     "android/nav/Count.md",
     "android/nav/Count of navigation.canvas",
     "android.md",
