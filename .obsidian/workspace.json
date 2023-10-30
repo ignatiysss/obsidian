@@ -33,11 +33,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
+                "file": "android/components/overview.canvas",
                 "viewState": {
-                  "x": -598.94,
-                  "y": -706.6100000000001,
-                  "zoom": 1
+                  "x": -300,
+                  "y": -490,
+                  "zoom": 0
                 }
               }
             }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
+                "file": "android/components/overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
+                "file": "android/components/overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas"
+                "file": "android/components/overview.canvas"
               }
             }
           },
@@ -216,16 +216,21 @@
   },
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "android/components/snackbar.md",
+    "android/components/overview.canvas",
+    "android/nav/Count_of_navigatione.canvas",
+    "android/Android.md",
+    "arch_linux/arch_linux_install.canvas",
+    "README.md",
+    "drawble/Screenshot_2023-10-30-20-47-37-642_com.example.learncompose.jpg",
+    "android/components/Untitled.canva.md",
+    "android/components",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
-    "arch_linux/arch_linux_install.canvas",
     "arch_linux/install_program.md",
     "arch_linux/touchpad.md",
-    "README.md",
     "arch-linux.md",
-    "android/Android.md",
     "drawble/obsidian_logo_image.png",
-    "android/nav/Count_of_navigatione.canvas",
     "drawble/nav_drawer.png",
     "drawble/top-app-bar.png",
     "android/first_interview/First interview.md",
@@ -249,21 +254,17 @@
     "android/nav",
     "android/second_interview/helper for hint",
     "android/second_interview",
-    "android/Kotlin/kotlinlang.org/kotlin/wasm/wasm.ir/src/org/jetbrains/kotlin/wasm/ir/source/location/SourceLocationMapping.kt",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/secondary-constructors.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/reified-type-parameters.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/operator-conventions.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/name-resolution-motivation.md",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/multi-declarations-in-parameters.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/jvm-native-flag-support.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/javascript-interop.md",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_task.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_launcher.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_launcher.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_task.png",
     "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_task.png"
   ]
 }
