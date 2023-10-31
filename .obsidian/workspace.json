@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/components/snackbar.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,9 +35,9 @@
               "state": {
                 "file": "android/components/overview.canvas",
                 "viewState": {
-                  "x": -300,
-                  "y": -490,
-                  "zoom": 0
+                  "x": -490,
+                  "y": -440,
+                  "zoom": -0.08828278730303814
                 }
               }
             }
@@ -217,7 +217,21 @@
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
     "android/components/snackbar.md",
+    "android/components/lazyList.md",
+    "android/components/button.md",
     "android/components/overview.canvas",
+    "drawble/screenshot_of_lazyList.png",
+    "drawble/Pasted image.png",
+    "drawble/screenshot_of_snackbar.png",
+    "drawble/screenshot_of_button.png",
+    "drawble/screenshot_of_textField.png",
+    "drawble/screenshoy_0f_button.png.md",
+    "drawble/screenshot_0f_button.png",
+    "drawble/screenshot_0f_button 1.png",
+    "arch_linux/install_program.md",
+    "android/components/textField.md",
+    "Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
+    "drawble/Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
     "android/nav/Count_of_navigatione.canvas",
     "android/Android.md",
     "arch_linux/arch_linux_install.canvas",
@@ -227,12 +241,8 @@
     "android/components",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
-    "arch_linux/install_program.md",
     "arch_linux/touchpad.md",
     "arch-linux.md",
-    "drawble/obsidian_logo_image.png",
-    "drawble/nav_drawer.png",
-    "drawble/top-app-bar.png",
     "android/first_interview/First interview.md",
     "dravble/link_to_your_logo_image.png.opdownload",
     "drawble",
@@ -255,16 +265,6 @@
     "android/second_interview/helper for hint",
     "android/second_interview",
     "android/Kotlin/kotlinlang.org/kotlin/spec-docs/secondary-constructors.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/reified-type-parameters.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/operator-conventions.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/name-resolution-motivation.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/multi-declarations-in-parameters.md",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxxhdpi/ic_launcher.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_launcher.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xhdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-xxhdpi/ic_task.png",
-    "android/Kotlin/kotlinlang.org/kotlin/libraries/tools/kotlin-gradle-plugin-integration-tests/src/test/resources/testProject/kapt2/android-dbflow/app/src/main/res/drawable-mdpi/ic_task.png"
+    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md"
   ]
 }

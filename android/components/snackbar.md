@@ -1,4 +1,4 @@
-simple uses of cnackbar
+## Simple uses of cnackbar
 
 	 val snackbarHostState = remember { SnackbarHostState() }  
     val scope = rememberCoroutineScope()  
