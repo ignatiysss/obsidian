@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/touchpad.md",
-                "mode": "source",
-                "source": true
+                "file": "android/second_interview/helper for hint/firebase.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "android/second_interview/helper for hint/firebase.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "android/second_interview/helper for hint/firebase.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/touchpad.md"
+                "file": "android/second_interview/helper for hint/firebase.md"
               }
             }
           },
@@ -184,8 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a4312adb0b12691",
+  "active": "98ade20e0691fab3",
   "lastOpenFiles": [
+    "android/second_interview/Hint.md",
+    "arch_linux/touchpad.md",
+    "arch_linux/install_program.md",
+    "arch_linux/arch_linux_install.canvas",
+    "android/android-studio-shortcuts.md",
+    "android/basic-adb-commands.md",
+    "android/Android.md",
+    "android/components/overview.canvas",
     "android/components/textField.md",
     "android/components/snackbar.md",
     "android/components/lazyList.md",
@@ -196,16 +204,8 @@
     "drawble/screenshot_of_button.png",
     "drawble/obsidian_logo_image.png",
     "drawble/nav_drawer.png",
-    "arch_linux/arch_linux_install.canvas",
-    "arch_linux/install_program.md",
-    "arch_linux/touchpad.md",
-    "android/components/overview.canvas",
-    "android/Android.md",
     "drawble/top-app-bar.png",
-    "android/second_interview/Hint.md",
     "android/second_interview/helper for hint/firebase.md",
-    "android/basic-adb-commands.md",
-    "android/android-studio-shortcuts.md",
     "android/first_interview/First interview.md",
     "README.md",
     "android/components/overview.md",
