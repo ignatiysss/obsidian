@@ -14,6 +14,7 @@ This repository is a collection of cheatsheets designed to help developers and L
   - [Basic ADB Commands](android/basic-adb-commands.md)
   - [Android Studio Shortcuts](android/android-studio-shortcuts.md)
   - [Android UI Design Tips](android/android-ui-design-tips.md)
+  - [Android components](/android/components/overview.canvas)
 
 - [Arch Linux Cheatsheets](arch-linux/)
   - [Pacman Package Manager](arch-linux/pacman-package-manager.md)

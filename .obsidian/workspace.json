@@ -8,20 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "da32ae21b710e9b1",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "b94c98bba65a1f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/snackbar.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +29,7 @@
                 "viewState": {
                   "x": -490,
                   "y": -440,
-                  "zoom": -0.08828278730303814
+                  "zoom": -0.4022362170557545
                 }
               }
             }
@@ -76,8 +68,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/overview.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/overview.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/overview.canvas"
+                "file": "README.md"
               }
             }
           },
@@ -196,13 +187,21 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "1a4312adb0b12691",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 344.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,12 +213,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6fe29a88d21d808",
+  "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
     "android/components/snackbar.md",
-    "android/components/lazyList.md",
-    "android/components/button.md",
+    "README.md",
     "android/components/overview.canvas",
+    "android/components/overview.md",
+    "android/android-ui-design-tips.md",
+    "android/components/lazyList.md",
+    "android/Android.md",
+    "android/Untitled.md",
+    "android/components/button.md",
     "drawble/screenshot_of_lazyList.png",
     "drawble/Pasted image.png",
     "drawble/screenshot_of_snackbar.png",
@@ -233,9 +237,7 @@
     "Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
     "drawble/Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
     "android/nav/Count_of_navigatione.canvas",
-    "android/Android.md",
     "arch_linux/arch_linux_install.canvas",
-    "README.md",
     "drawble/Screenshot_2023-10-30-20-47-37-642_com.example.learncompose.jpg",
     "android/components/Untitled.canva.md",
     "android/components",
@@ -260,11 +262,8 @@
     "android/courses",
     "android/second_interview/helper for hint/firebase.md",
     "android/second_interview/Hint.md",
-    "Untitled.md",
     "android/nav",
     "android/second_interview/helper for hint",
-    "android/second_interview",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/secondary-constructors.md",
-    "android/Kotlin/kotlinlang.org/kotlin/spec-docs/sealed-hierarchies-and-when.md"
+    "android/second_interview"
   ]
 }

@@ -1,5 +1,7 @@
 {
   "spellcheckLanguages": null,
   "legacyEditor": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "trashOption": "local"
 }
