@@ -1,5 +1,8 @@
-sudo nano /etc/pacman.conf
 
+## Edit pacman config
+
+	sudo nano /etc/pacman.conf
+##### change this
 	 ParallelDownloads = 5
 	[core-testing]
 	Include = /etc/pacman.d/mirrorlist
@@ -12,22 +15,19 @@ sudo nano /etc/pacman.conf
 	[multilib]  
 	Include = /etc/pacman.d/mirrorlist
 
+## Install program from pacman 
+	sudo pacman -Syyu base-devel xorg xorg-xinit xorg-apps messa-libgl nvidia nvidia-settings gdm plasma konsole gnome git telegram-desktop nano ntfs-3g alsa-utils playerctl brightnessctl
 
-sudo pacman -Syyu
-sudo pacman -Sy base-devel xorg xorg-xinit xorg-apps messa-libgl nvidia nvidia-settings gdm plasma konsole gnome git telegram-desktop nano ntfs-3g
+## Create directory for programs 
+	mkdir /home/ignatiys/program
 
-mkdir /home/ignatiys/1
-sudo nano /etc/fstab 
-	/dev/sda2                                       /home/ignatiys/1         ntfs-3g         defaults        0 0
-mkdir /home/ignatiys/program
-cd /home/ignatiys/program
-
-git clone https://aur.archlinux.org/yay.git
-git clone https://aur.archlinux.org/intellij-idea-ultimate-edition.git
-
-cd /home/ignatiys/program/yay
+## Install program from AUR
+	cd program/
+	git clone https://aur.archlinux.org/yay.git
+	cd yay/
 	makepkg -si
 	cd /home/ignatiys/program
-cd /home/ignatiys/program/intellij-idea-ultimate-edition
+	git clone https://aur.archlinux.org/libinput-gestures.git
+	cd libinput-gestures
 	makepkg -si
-	cd /home/ignatiys/program
+

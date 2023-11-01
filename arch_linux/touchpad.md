@@ -1,9 +1,14 @@
-	sudo pacman -S  alsamixer playerctl brightnessctl
+## Install dependencies
+	sudo pacman -S  alsa-utils playerctl brightnessctl
+
+
+
 ## Install libinput
 	cd program 
 	git clone https://aur.archlinux.org/libinput-gestures.git
 	cd libinput-gestures
 	makepkg -si
+
 
 
 ## Configure libinput
