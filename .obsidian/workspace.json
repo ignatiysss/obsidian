@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "arch_linux/touchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "arch_linux/touchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "arch_linux/touchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "arch_linux/touchpad.md"
               }
             }
           },
@@ -215,8 +215,14 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
-    "android/components/snackbar.md",
+    "arch_linux/install_program.md",
+    "arch_linux/arch_linux_install.canvas",
+    "android/basic-adb-commands.md",
+    "android/android-studio-shortcuts.md",
+    "android/nav/Count_of_navigatione.canvas",
+    "android/first_interview/First interview.md",
     "README.md",
+    "android/components/snackbar.md",
     "android/components/overview.canvas",
     "android/components/overview.md",
     "android/android-ui-design-tips.md",
@@ -232,20 +238,14 @@
     "drawble/screenshoy_0f_button.png.md",
     "drawble/screenshot_0f_button.png",
     "drawble/screenshot_0f_button 1.png",
-    "arch_linux/install_program.md",
     "android/components/textField.md",
     "Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
     "drawble/Screenshot_2023-10-31-16-01-02-977_com.example.learncompose.jpg",
-    "android/nav/Count_of_navigatione.canvas",
-    "arch_linux/arch_linux_install.canvas",
     "drawble/Screenshot_2023-10-30-20-47-37-642_com.example.learncompose.jpg",
     "android/components/Untitled.canva.md",
     "android/components",
-    "android/android-studio-shortcuts.md",
-    "android/basic-adb-commands.md",
     "arch_linux/touchpad.md",
     "arch-linux.md",
-    "android/first_interview/First interview.md",
     "dravble/link_to_your_logo_image.png.opdownload",
     "drawble",
     "android/nav/Count.md",

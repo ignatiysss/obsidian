@@ -1,6 +1,6 @@
 # Android and Arch Linux Cheatsheets
 
-![Project Logo](/drawble/obsidian_logo_image.png)
+![Obsidian Logo](/drawble/obsidian_logo_image.png)
 
 Welcome to the Android and Arch Linux Cheatsheets repository! This repository contains handy cheatsheets and quick reference guides for Android development and Arch Linux usage.
 
