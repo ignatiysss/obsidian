@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/second_interview/helper for hint/firebase.md",
-                "mode": "preview",
+                "file": "android/components/Constraintlayout.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/second_interview/helper for hint/firebase.md",
+                "file": "android/components/Constraintlayout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/second_interview/helper for hint/firebase.md",
+                "file": "android/components/Constraintlayout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/second_interview/helper for hint/firebase.md"
+                "file": "android/components/Constraintlayout.md"
               }
             }
           },
@@ -186,8 +186,11 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
-    "2023-11-01.md",
+    "android/components/overview.canvas",
+    "android/components/Constraintlayout.md",
+    "android/components/lazyList.md",
     "android/second_interview/helper for hint/firebase.md",
+    "2023-11-01.md",
     "Untitled.canvas",
     "android/second_interview/Hint.md",
     "arch_linux/touchpad.md",
@@ -196,10 +199,8 @@
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "android/Android.md",
-    "android/components/overview.canvas",
     "android/components/textField.md",
     "android/components/snackbar.md",
-    "android/components/lazyList.md",
     "android/components/button.md",
     "android/nav/Count_of_navigatione.canvas",
     "android/courses/Coroutines.md",
@@ -229,9 +230,7 @@
     "android.md",
     "link_to_your_logo_image.md",
     "2023-06-logo.png.opdownload",
-    "arch_linux (1)/install_program.md",
     "arch_linux (1)/arch_linux_install.canvas",
-    "arch_linux (1)/touchpad.md",
     "arch_linux (1)",
     "android/nav/code_samples",
     "android/courses",
