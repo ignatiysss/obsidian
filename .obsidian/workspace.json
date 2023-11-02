@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/Constraintlayout.md",
-                "mode": "source",
+                "file": "android/components/lazyList.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/Constraintlayout.md",
+                "file": "android/components/lazyList.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/Constraintlayout.md",
+                "file": "android/components/lazyList.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/Constraintlayout.md"
+                "file": "android/components/lazyList.md"
               }
             }
           },
@@ -186,23 +186,32 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "android/components/constraintLayout.md",
     "android/components/overview.canvas",
-    "android/components/Constraintlayout.md",
+    "android/Android.md",
+    "android/android-studio-shortcuts.md",
+    "android/basic-adb-commands.md",
+    "arch_linux/arch_linux_install.canvas",
+    "android/Untitled.md",
+    "arch_linux/install_program.md",
+    "arch_linux/touchpad.md",
+    "android/nav/Count_of_navigatione.canvas",
+    "README.md",
+    "android/components/button.md",
+    "drawble/constraintLayout.png",
+    "drawble/Pasted image.png",
+    "android/components/constrainLayout.md",
+    "androi/components/constrainLayout.md",
+    "androi/components",
+    "androi",
+    "constrainLayout.md",
     "android/components/lazyList.md",
     "android/second_interview/helper for hint/firebase.md",
     "2023-11-01.md",
     "Untitled.canvas",
     "android/second_interview/Hint.md",
-    "arch_linux/touchpad.md",
-    "arch_linux/install_program.md",
-    "arch_linux/arch_linux_install.canvas",
-    "android/android-studio-shortcuts.md",
-    "android/basic-adb-commands.md",
-    "android/Android.md",
     "android/components/textField.md",
     "android/components/snackbar.md",
-    "android/components/button.md",
-    "android/nav/Count_of_navigatione.canvas",
     "android/courses/Coroutines.md",
     "drawble/screenshot_of_lazyList.png",
     "drawble/screenshot_of_button.png",
@@ -210,32 +219,23 @@
     "drawble/nav_drawer.png",
     "drawble/top-app-bar.png",
     "android/first_interview/First interview.md",
-    "README.md",
     "android/components/overview.md",
     "android/android-ui-design-tips.md",
-    "android/Untitled.md",
-    "drawble/Pasted image.png",
     "drawble/screenshot_of_snackbar.png",
     "drawble/screenshot_of_textField.png",
     "drawble/screenshoy_0f_button.png.md",
     "drawble/screenshot_0f_button.png",
-    "drawble/screenshot_0f_button 1.png",
     "android/components/Untitled.canva.md",
     "android/components",
     "arch-linux.md",
     "dravble/link_to_your_logo_image.png.opdownload",
     "drawble",
-    "android/nav/Count.md",
     "android/nav/Count of navigation.canvas",
-    "android.md",
-    "link_to_your_logo_image.md",
     "2023-06-logo.png.opdownload",
     "arch_linux (1)/arch_linux_install.canvas",
     "arch_linux (1)",
     "android/nav/code_samples",
     "android/courses",
-    "android/nav",
-    "android/second_interview/helper for hint",
-    "android/second_interview"
+    "android/nav"
   ]
 }

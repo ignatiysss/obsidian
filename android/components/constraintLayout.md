@@ -23,7 +23,6 @@
 	}  
 	  
 	ConstraintLayout(constraints, modifier = Modifier.fillMaxSize()) {  
-	  
 	    Box(  
 	        modifier = Modifier  
 	            .background(Color.Blue)  
@@ -34,5 +33,4 @@
 	            .background(Color.Yellow)  
 	            .layoutId("yellowbox")  
 	    )  
-	  
 	}
