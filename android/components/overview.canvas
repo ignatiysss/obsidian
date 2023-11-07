@@ -8,7 +8,7 @@
 		{"id":"a3b76cc0510869d5","type":"text","text":"<center>Animation</center>","x":-395,"y":360,"width":250,"height":60},
 		{"id":"d04fb7f6f0e6b862","type":"text","text":"tween","x":-939,"y":506,"width":250,"height":60},
 		{"id":"7d2d4a59d0d0ab99","type":"text","text":"easing","x":-1275,"y":680,"width":250,"height":60},
-		{"id":"2d2791bc073eff73","type":"text","text":"## [LinearEasing](/android/components/button)\n\n![LinearEasing](Screen_recording_animation_LinearEasing.gif)","x":-1340,"y":940,"width":380,"height":760},
+		{"id":"2d2791bc073eff73","type":"text","text":"## [LinearOutSlowInEasing](/android/components/animation/LinearOutSlowInEasing)\n\n![LinearEasing](Screen_recording_animation_LinearOutSlowInEasing.gif)","x":-1340,"y":940,"width":380,"height":760},
 		{"id":"eb833837306d55e8","type":"text","text":"## [FastOutLinearInEasing](/android/components/animation/fastOutLinearInEasing)\n\n![LinearEasing](Screen_recording_animation_FastOutLinearInEasing.gif)","x":-900,"y":940,"width":380,"height":760},
 		{"id":"953ddff31bdde510","type":"text","text":"## [LinearEasing](/android/components/animation/linearEasing)\n\n![LinearEasing](Screen_recording_animation_LinearEasing.gif)","x":-1780,"y":940,"width":380,"height":760}
 	],
