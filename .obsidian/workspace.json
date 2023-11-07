@@ -11,9 +11,14 @@
             "id": "b94c98bba65a1f14",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "canvas",
               "state": {
-                "file": "drawble/Screen_recording_LinearOutSlowInEasing.webm"
+                "file": "android/components/overview.canvas",
+                "viewState": {
+                  "x": -1160.4142937324605,
+                  "y": 1237.021309635175,
+                  "zoom": 0.6253345955832768
+                }
               }
             }
           },
@@ -87,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 275.5110321044922
   },
   "right": {
     "id": "64c2b42bbdff67fb",
@@ -103,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drawble/Screen_recording_LinearOutSlowInEasing.webm",
+                "file": "android/components/overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drawble/Screen_recording_LinearOutSlowInEasing.webm",
+                "file": "android/components/overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drawble/Screen_recording_LinearOutSlowInEasing.webm"
+                "file": "android/components/overview.canvas"
               }
             }
           },
@@ -184,12 +189,20 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "android/components/animation/linearEasing.md",
+    "android/components/overview.canvas",
+    "android/components/animation",
+    "drawble/Screen_recording_animation_LinearEasing.gif",
+    "drawble/Screen_recording_animation_LinearOutSlowInEasing.gif",
+    "drawble/Screen_recording_animation_FastOutLinearInEasing.gif",
+    "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
+    "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
+    "drawble/Screen_recording_animation_LinearEasing 1.webm",
+    "drawble/Screen_recording_LinearOutSlowInEasing.webm",
     "android/components/constraintLayout.md",
     "drawble/Screen_recording_animation_LinearEasing.webm",
-    "drawble/Screen_recording_LinearOutSlowInEasing.webm",
     "drawble/Screen_recording_FastOutLinearInEasing.webm",
     "android/components/lazyList.md",
-    "android/components/overview.canvas",
     "android/Android.md",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
@@ -222,18 +235,10 @@
     "android/first_interview/First interview.md",
     "android/components/overview.md",
     "android/android-ui-design-tips.md",
-    "drawble/screenshot_of_snackbar.png",
-    "drawble/screenshot_of_textField.png",
     "drawble/screenshoy_0f_button.png.md",
-    "drawble/screenshot_0f_button.png",
     "android/components/Untitled.canva.md",
     "android/components",
-    "arch-linux.md",
-    "dravble/link_to_your_logo_image.png.opdownload",
-    "drawble",
     "android/nav/Count of navigation.canvas",
-    "2023-06-logo.png.opdownload",
-    "arch_linux (1)/arch_linux_install.canvas",
-    "arch_linux (1)"
+    "arch_linux (1)/arch_linux_install.canvas"
   ]
 }
