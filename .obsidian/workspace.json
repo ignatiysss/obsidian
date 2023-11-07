@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/button.md",
+                "file": "arch_linux/install_program.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/button.md",
+                "file": "arch_linux/install_program.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/button.md",
+                "file": "arch_linux/install_program.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/button.md"
+                "file": "arch_linux/install_program.md"
               }
             }
           },
@@ -201,8 +201,9 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
-    "android/components/button.md",
     "android/components/overview.canvas",
+    "arch_linux/install_program.md",
+    "android/components/button.md",
     "android/components/textField.md",
     "android/components/animation/linearEasing.md",
     "android/components/animation",
@@ -222,7 +223,6 @@
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
     "android/Untitled.md",
-    "arch_linux/install_program.md",
     "arch_linux/touchpad.md",
     "android/nav/Count_of_navigatione.canvas",
     "README.md",
