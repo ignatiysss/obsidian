@@ -35,6 +35,9 @@
 
 ## Configure obsidian
 
+##### Hotkey
+![hotkey1](drawble/obsidian_hotkey_1.png)
+![hotkey1](drawble/obsidian_hotkey_2.png)
 
 
 ##### Style settings
