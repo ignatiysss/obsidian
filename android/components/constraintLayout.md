@@ -1,11 +1,10 @@
 ## Dependency: 
 	implementation ("androidx.constraintlayout:constraintlayout-compose:1.0.0-alpha05")
 
-## Simple uses of constraintlayout
+## Simple uses of constraintLayout
 	val constraints = ConstraintSet {  
 	    val bluebox = createRefFor("bluebox")  
 	    val yellowbox = createRefFor("yellowbox")  
-	  
 	    constrain(bluebox) {  
 	        top.linkTo(parent.top)  
 	        start.linkTo(parent.start)  
