@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/components/button.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/components/button.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/components/button.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/install_program.md"
+                "file": "android/components/button.md"
               }
             }
           },
@@ -201,16 +201,20 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "android/components/overview.canvas",
+    "android/components/animation/LinearOutSlowInEasing.md",
+    "android/components/animation/linearEasing.md",
+    "android/components/animation/fastOutLinearInEasing.md",
+    "android/components/button.md",
+    "android/components/constraintLayout.md",
+    "arch_linux/install_program.md",
+    "android/components/animation/Untitled.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
-    "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_3.png",
     "drawble/Pasted image.png",
     "drawble/1.png",
-    "android/components/overview.canvas",
-    "android/components/button.md",
     "android/components/textField.md",
-    "android/components/animation/linearEasing.md",
     "android/components/animation",
     "drawble/Screen_recording_animation_LinearEasing.gif",
     "drawble/Screen_recording_animation_LinearOutSlowInEasing.gif",
@@ -219,7 +223,6 @@
     "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
     "drawble/Screen_recording_animation_LinearEasing 1.webm",
     "drawble/Screen_recording_LinearOutSlowInEasing.webm",
-    "android/components/constraintLayout.md",
     "drawble/Screen_recording_animation_LinearEasing.webm",
     "drawble/Screen_recording_FastOutLinearInEasing.webm",
     "android/components/lazyList.md",
@@ -246,9 +249,6 @@
     "drawble/screenshot_of_lazyList.png",
     "android/first_interview/First interview.md",
     "android/components/overview.md",
-    "android/android-ui-design-tips.md",
-    "drawble/screenshoy_0f_button.png.md",
-    "android/components/Untitled.canva.md",
     "android/components",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
