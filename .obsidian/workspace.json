@@ -11,11 +11,14 @@
             "id": "b94c98bba65a1f14",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "android/components/animation/CircularProgressBar.md",
-                "mode": "preview",
-                "source": false
+                "file": "android/components/overview.canvas",
+                "viewState": {
+                  "x": -261.07060760814716,
+                  "y": -1507.6082636321894,
+                  "zoom": -0.8773670813127887
+                }
               }
             }
           },
@@ -23,22 +26,21 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "android/components/animation/LinearOutSlowInEasing.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "ccb14cb370831fd9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "android/components/overview.canvas",
-                "viewState": {
-                  "x": -1025.3668101029,
-                  "y": 1985.8113751169337,
-                  "zoom": -1.3746654044167232
-                }
+                "file": "drawble/Screen_recording_animation_circularProgresBar.gif"
               }
             }
           },
@@ -104,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5110321044922
+    "width": 247.0110321044922
   },
   "right": {
     "id": "64c2b42bbdff67fb",
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/animation/CircularProgressBar.md",
+                "file": "android/components/overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/animation/CircularProgressBar.md",
+                "file": "android/components/overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/animation/CircularProgressBar.md"
+                "file": "android/components/overview.canvas"
               }
             }
           },
@@ -201,16 +203,19 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
-    "android/components/animation/animation.md",
-    "android/components/animation/CircularProgressBar.md",
+    "android/components/animation/linearEasing.md",
     "android/components/overview.canvas",
+    "android/components/animation/LinearOutSlowInEasing.md",
+    "drawble/Screen_recording_animation_circularProgresBar.gif",
+    "android/components/animation/fastOutLinearInEasing.md",
+    "().md",
+    "android/components/animation/CircularProgressBar.md",
+    "android/second_interview/helper for hint/firebase.md",
+    "android/components/animation/animation.md",
     "android/components/constraintLayout.md",
     "android/components/lazyList.md",
     "android/components/snackbar.md",
     "android/components/button.md",
-    "android/components/animation/LinearOutSlowInEasing.md",
-    "android/components/animation/linearEasing.md",
-    "android/components/animation/fastOutLinearInEasing.md",
     "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
@@ -242,14 +247,10 @@
     "androi/components",
     "androi",
     "constrainLayout.md",
-    "android/second_interview/helper for hint/firebase.md",
     "2023-11-01.md",
     "Untitled.canvas",
     "android/second_interview/Hint.md",
     "android/courses/Coroutines.md",
-    "drawble/screenshot_of_lazyList.png",
-    "android/first_interview/First interview.md",
-    "android/components/overview.md",
     "android/components",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
