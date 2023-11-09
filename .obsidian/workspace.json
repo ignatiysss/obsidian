@@ -15,8 +15,8 @@
               "state": {
                 "file": "android/components/overview.canvas",
                 "viewState": {
-                  "x": -261.07060760814716,
-                  "y": -1507.6082636321894,
+                  "x": 89.15719418536062,
+                  "y": 1374.5102808831648,
                   "zoom": -0.8773670813127887
                 }
               }
@@ -201,7 +201,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b94c98bba65a1f14",
+  "active": "98ade20e0691fab3",
   "lastOpenFiles": [
     "android/components/animation/linearEasing.md",
     "android/components/overview.canvas",
