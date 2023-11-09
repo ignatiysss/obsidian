@@ -11,14 +11,11 @@
             "id": "b94c98bba65a1f14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "android/components/overview.canvas",
-                "viewState": {
-                  "x": -670.1156565182567,
-                  "y": 1087.3808851830331,
-                  "zoom": -0.6940337479794552
-                }
+                "file": "android/components/animation/animation.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -123,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/overview.canvas",
+                "file": "android/components/animation/animation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/overview.canvas",
+                "file": "android/components/animation/animation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/overview.canvas"
+                "file": "android/components/animation/animation.md"
               }
             }
           },
@@ -204,11 +201,11 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "android/components/overview.canvas",
     "android/components/animation/animation.md",
     "android/components/constraintLayout.md",
     "android/components/lazyList.md",
     "android/components/snackbar.md",
-    "android/components/overview.canvas",
     "android/components/button.md",
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/linearEasing.md",
