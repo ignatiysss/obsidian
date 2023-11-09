@@ -13,7 +13,7 @@
   "aura@@aura-disable-borders": true,
   "aura@@aura-card-shadows": false,
   "aura@@aura-card-layout-actions": true,
-  "aura@@aura-workspace-background": true,
+  "aura@@aura-workspace-background": false,
   "aura@@aura-workspace-background-image-dark": "aura-workspace-background-image-custom",
   "aura@@aura-file-icons": false,
   "aura@@aura-folder-icons": false,
@@ -26,5 +26,9 @@
   "aura@@aura-scrollbar-toggle": true,
   "aura@@aura-toggle-metadata": false,
   "aura@@aura-tooltip-toggle": false,
-  "aura@@aura-vault-name-toggle": true
+  "aura@@aura-vault-name-toggle": true,
+  "aura@@aura-card-layout-fileexplorer": true,
+  "aura@@aura-workspace-background-workspace-slider-dark": 1,
+  "aura@@aura-workspace-background-blur-dark": 20,
+  "aura@@aura-workspace-background-brightness-dark": 0
 }
