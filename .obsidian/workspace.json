@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/animation/animation.md",
+                "file": "android/components/FeatureFromMedetationUI.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/animation/animation.md",
+                "file": "android/components/FeatureFromMedetationUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/animation/animation.md",
+                "file": "android/components/FeatureFromMedetationUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/animation/animation.md"
+                "file": "android/components/FeatureFromMedetationUI.md"
               }
             }
           },
@@ -200,16 +200,18 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "().md",
+    "android/components/FeatureFromMedetationUI.md",
+    "Untitled.md",
+    "android/components/animation/CircularProgressBar.md",
+    "android/components/animation/animation.md",
     "android/components/overview.canvas",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
     "android/components/animation/linearEasing.md",
     "android/components/animation/LinearOutSlowInEasing.md",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
     "android/components/animation/fastOutLinearInEasing.md",
-    "().md",
-    "android/components/animation/CircularProgressBar.md",
     "android/second_interview/helper for hint/firebase.md",
-    "android/components/animation/animation.md",
     "android/components/constraintLayout.md",
     "android/components/lazyList.md",
     "android/components/snackbar.md",
@@ -247,7 +249,6 @@
     "2023-11-01.md",
     "Untitled.canvas",
     "android/second_interview/Hint.md",
-    "android/courses/Coroutines.md",
     "android/components",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
