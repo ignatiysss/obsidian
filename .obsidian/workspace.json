@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/FeatureFromMedetationUI.md",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/FeatureFromMedetationUI.md",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/FeatureFromMedetationUI.md",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/FeatureFromMedetationUI.md"
+                "file": "android/components/project/Meditation/HomeScreen.md"
               }
             }
           },
@@ -200,8 +200,11 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "android/components/FeatureFromMeditationUI.md",
+    "android/components/project/Meditation/HomeScreen.md",
+    "android/components/project/Meditation",
+    "android/components/project",
     "().md",
-    "android/components/FeatureFromMedetationUI.md",
     "Untitled.md",
     "android/components/animation/CircularProgressBar.md",
     "android/components/animation/animation.md",
@@ -244,12 +247,9 @@
     "android/components/constrainLayout.md",
     "androi/components/constrainLayout.md",
     "androi/components",
-    "androi",
     "constrainLayout.md",
     "2023-11-01.md",
     "Untitled.canvas",
-    "android/second_interview/Hint.md",
-    "android/components",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
   ]
