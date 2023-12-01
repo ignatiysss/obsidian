@@ -11,8 +11,15 @@
             "id": "cc59ca788e9acddd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "android/components/overview.canvas",
+                "viewState": {
+                  "x": -148.28349361140283,
+                  "y": 531.4118277465118,
+                  "zoom": -1.8466487638829718
+                }
+              }
             }
           }
         ]
@@ -99,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "android/components/overview.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "android/components/overview.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "android/components/overview.canvas"
+          }
         }
       }
     ],
@@ -142,5 +153,14 @@
     }
   },
   "active": "cc59ca788e9acddd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "().md",
+    "drawble/Screen_recording_animation_circularProgresBar.gif",
+    "/().md",
+    "/drawble/Screen_recording_animation_circularProgresBar.gif",
+    "/android/components/overview.canvas",
+    "android/components/lazyList.md",
+    "android/components/overview.canvas",
+    "arch_linux/arch_linux_install.canvas"
+  ]
 }
