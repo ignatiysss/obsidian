@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/kdeConnect.md",
+                "file": "stahov/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/kdeConnect.md",
+                "file": "stahov/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/kdeConnect.md",
+                "file": "stahov/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/kdeConnect.md"
+                "file": "stahov/Untitled.md"
               }
             }
           },
@@ -200,9 +200,9 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
+    "arch_linux/kdeConnect.md",
     "drawble/KdeConnectCommands",
     "stahov/Untitled.canvas",
-    "arch_linux/kdeConnect.md",
     "stahov/Untitled.md",
     "android/components/project/Meditation/HomeScreen.md",
     "stahov",
@@ -240,7 +240,6 @@
     "drawble/Screen_recording_animation_LinearEasing 1.webm",
     "drawble/Screen_recording_LinearOutSlowInEasing.webm",
     "drawble/Screen_recording_animation_LinearEasing.webm",
-    "drawble/Screen_recording_FastOutLinearInEasing.webm",
     "android/Android.md",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
