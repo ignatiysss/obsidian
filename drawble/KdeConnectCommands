@@ -1,0 +1,46 @@
+[
+    {
+        "command": "qdbus-qt5 org.kde.kded5 /modules/plasmavault forceCloseAllVaults",
+        "name": "Forcefully Close All Vaults"
+    },
+    {
+        "command": "loginctl lock-session",
+        "name": "Lock Screen"
+    },
+    {
+        "command": "brightnessctl set +7.5%\n",
+        "name": "Max Bright"
+    },
+    {
+        "command": "brightnessctl set 1%\n",
+        "name": "Min Bright"
+    },
+    {
+        "command": "systemctl poweroff",
+        "name": "Shutdown"
+    },
+    {
+        "command": "loginctl unlock-session",
+        "name": "Unlock Screen"
+    },
+    {
+        "command": "systemctl restart display-manager",
+        "name": "restart DM"
+    },
+    {
+        "command": "shutdown -h +30",
+        "name": "shut30"
+    },
+    {
+        "command": "shutdown -h +60",
+        "name": "shut60"
+    },
+    {
+        "command": "echo -e 'power on\\ndiscoverable on\\npairable on\\nscan on\\nconnect 0C:FC:83:01:9C:CD' | bluetoothctl",
+        "name": "eirphones"
+    },
+    {
+        "command": "",
+        "name": ""
+    }
+]
