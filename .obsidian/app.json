@@ -28,5 +28,13 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
-  ]
+  ],
+  "focusNewTab": true,
+  "propertiesInDocument": "visible",
+  "foldHeading": true,
+  "foldIndent": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "showInlineTitle": true,
+  "mobilePullAction": "obsidian-git:pull"
 }
