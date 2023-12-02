@@ -11,14 +11,11 @@
             "id": "b94c98bba65a1f14",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "stahov/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "arch_linux/kdeConnect.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -122,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stahov/Untitled.canvas",
+                "file": "arch_linux/kdeConnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stahov/Untitled.canvas",
+                "file": "arch_linux/kdeConnect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stahov/Untitled.canvas"
+                "file": "arch_linux/kdeConnect.md"
               }
             }
           },
@@ -203,8 +200,10 @@
   },
   "active": "b94c98bba65a1f14",
   "lastOpenFiles": [
-    "stahov/Untitled.md",
+    "drawble/KdeConnectCommands",
     "stahov/Untitled.canvas",
+    "arch_linux/kdeConnect.md",
+    "stahov/Untitled.md",
     "android/components/project/Meditation/HomeScreen.md",
     "stahov",
     "().md",
@@ -251,7 +250,6 @@
     "android/nav/Count_of_navigatione.canvas",
     "README.md",
     "android/components/constrainLayout.md",
-    "androi/components/constrainLayout.md",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
