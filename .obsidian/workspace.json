@@ -8,27 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b94c98bba65a1f14",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "stahov/Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
-            }
-          },
-          {
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/animation/LinearOutSlowInEasing.md",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stahov/Untitled.canvas",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stahov/Untitled.canvas",
+                "file": "android/components/project/Meditation/HomeScreen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stahov/Untitled.canvas"
+                "file": "android/components/project/Meditation/HomeScreen.md"
               }
             }
           },
@@ -201,12 +186,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b94c98bba65a1f14",
+  "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "android/components/lazyList.md",
+    "android/components/overview.canvas",
+    "android/components/snackbar.md",
+    "stahov/Untitled.canvas",
     "stahov/Untitled.md",
     "arch_linux/kdeConnect.md",
     "drawble/KdeConnectCommands",
-    "stahov/Untitled.canvas",
     "android/components/project/Meditation/HomeScreen.md",
     "stahov",
     "().md",
@@ -216,7 +204,6 @@
     "Untitled.md",
     "android/components/animation/CircularProgressBar.md",
     "android/components/animation/animation.md",
-    "android/components/overview.canvas",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
     "android/components/animation/linearEasing.md",
     "android/components/animation/LinearOutSlowInEasing.md",
@@ -224,8 +211,6 @@
     "android/components/animation/fastOutLinearInEasing.md",
     "android/second_interview/helper for hint/firebase.md",
     "android/components/constraintLayout.md",
-    "android/components/lazyList.md",
-    "android/components/snackbar.md",
     "android/components/button.md",
     "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
