@@ -11,8 +11,15 @@
             "id": "cc59ca788e9acddd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "android/components/overview.canvas",
+                "viewState": {
+                  "x": -460,
+                  "y": 187,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -99,6 +106,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "android/components/overview.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,6 +123,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "android/components/overview.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,7 +134,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "android/components/overview.canvas"
+          }
         }
       }
     ],
@@ -142,5 +153,32 @@
     }
   },
   "active": "cc59ca788e9acddd",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "stahov/Untitled.canvas",
+    "drawble/KdeConnectCommands",
+    "arch_linux/kdeConnect.md",
+    "android/components/project/Meditation/HomeScreen.md",
+    "android/components/FeatureFromMeditationUI.md",
+    "stahov/Untitled.md",
+    "/stahov/Untitled.canvas",
+    "/drawble/KdeConnectCommands",
+    "/arch_linux/kdeConnect.md",
+    "/android/components/project/Meditation/HomeScreen.md",
+    "/android/components/FeatureFromMeditationUI.md",
+    "/stahov/Untitled.md",
+    "stahov",
+    "android/components/project/Meditation",
+    "android/components/project",
+    "/stahov",
+    "/android/components/project/Meditation",
+    "/android/components/project",
+    "().md",
+    "drawble/Screen_recording_animation_circularProgresBar.gif",
+    "/().md",
+    "/drawble/Screen_recording_animation_circularProgresBar.gif",
+    "/android/components/overview.canvas",
+    "android/components/lazyList.md",
+    "android/components/overview.canvas",
+    "arch_linux/arch_linux_install.canvas"
+  ]
 }
