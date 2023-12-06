@@ -89,4 +89,40 @@
 	  
 	}
 
-##### 
+#####  Getting section
+	@Composable  
+	fun GettingSection(  
+		name: String = "Ignatiys",  
+		partOfDay: String,  
+		padding: Dp  
+	) {  
+		Row(  
+			horizontalArrangement = Arrangement.SpaceBetween,  
+			verticalAlignment = Alignment.CenterVertically,  
+			modifier = Modifier  
+			.fillMaxWidth()  
+			.padding(padding)  
+		) {  
+		  
+		Column(verticalArrangement = Arrangement.Center) {  
+			Text(  
+				text = "Good ${partOfDay.lowercase(Locale.getDefault())}, $name",  
+				style = MaterialTheme.typography.headlineMedium,  
+				color = TextWhite  
+			)  
+			Text(  
+				text = "We wish you have a good day",  
+				style = MaterialTheme.typography.bodyLarge,  
+				color = TextWhite  
+			)  
+			  
+			  
+			}  
+			Icon(  
+				painter = painterResource(id = R.drawable.ic_search),  
+				contentDescription = "search icon",  
+				modifier = Modifier.size(24.dp),  
+				tint = Color.White  
+			)  
+		}    
+	}
