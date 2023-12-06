@@ -33,15 +33,19 @@
             "id": "5288d20bf7d09e5a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "android/components/button.md",
-                "mode": "preview",
-                "source": false
+                "file": "android/nav/Count_of_navigatione.canvas",
+                "viewState": {
+                  "x": -137.42989690721643,
+                  "y": -310.056082474227,
+                  "zoom": -0.7751265891597973
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/project/Meditation/HomeScreen.md",
+                "file": "android/nav/Count_of_navigatione.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/project/Meditation/HomeScreen.md",
+                "file": "android/nav/Count_of_navigatione.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/project/Meditation/HomeScreen.md"
+                "file": "android/nav/Count_of_navigatione.canvas"
               }
             }
           },
@@ -186,8 +190,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6fe29a88d21d808",
+  "active": "5288d20bf7d09e5a",
   "lastOpenFiles": [
+    "android/components/button.md",
+    "drawble/Screen_recording_animation_circularProgresBar.gif",
+    "android/components/project/Meditation/HomeScreen.md",
     "android/components/lazyList.md",
     "android/components/overview.canvas",
     "android/components/snackbar.md",
@@ -195,7 +202,6 @@
     "stahov/Untitled.md",
     "arch_linux/kdeConnect.md",
     "drawble/KdeConnectCommands",
-    "android/components/project/Meditation/HomeScreen.md",
     "stahov",
     "().md",
     "android/components/FeatureFromMeditationUI.md",
@@ -207,11 +213,9 @@
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
     "android/components/animation/linearEasing.md",
     "android/components/animation/LinearOutSlowInEasing.md",
-    "drawble/Screen_recording_animation_circularProgresBar.gif",
     "android/components/animation/fastOutLinearInEasing.md",
     "android/second_interview/helper for hint/firebase.md",
     "android/components/constraintLayout.md",
-    "android/components/button.md",
     "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
