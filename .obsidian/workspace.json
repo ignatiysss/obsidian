@@ -33,14 +33,11 @@
             "id": "5288d20bf7d09e5a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
-                "viewState": {
-                  "x": -137.42989690721643,
-                  "y": -310.056082474227,
-                  "zoom": -0.7751265891597973
-                }
+                "file": "android/courses/Coroutines.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
+                "file": "android/courses/Coroutines.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas",
+                "file": "android/courses/Coroutines.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/nav/Count_of_navigatione.canvas"
+                "file": "android/courses/Coroutines.md"
               }
             }
           },
@@ -192,19 +189,22 @@
   },
   "active": "5288d20bf7d09e5a",
   "lastOpenFiles": [
+    "android/nav/Count_of_navigatione.canvas",
+    "android/courses/Coroutines.md",
+    "android/components/snackbar.md",
+    "android/components/overview.canvas",
+    "android/components/lazyList.md",
+    "android/components/FeatureFromMeditationUI.md",
+    "android/components/constraintLayout.md",
     "android/components/button.md",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
     "android/components/project/Meditation/HomeScreen.md",
-    "android/components/lazyList.md",
-    "android/components/overview.canvas",
-    "android/components/snackbar.md",
     "stahov/Untitled.canvas",
     "stahov/Untitled.md",
     "arch_linux/kdeConnect.md",
     "drawble/KdeConnectCommands",
     "stahov",
     "().md",
-    "android/components/FeatureFromMeditationUI.md",
     "android/components/project/Meditation",
     "android/components/project",
     "Untitled.md",
@@ -215,7 +215,6 @@
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/fastOutLinearInEasing.md",
     "android/second_interview/helper for hint/firebase.md",
-    "android/components/constraintLayout.md",
     "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
@@ -238,9 +237,7 @@
     "arch_linux/arch_linux_install.canvas",
     "android/Untitled.md",
     "arch_linux/touchpad.md",
-    "android/nav/Count_of_navigatione.canvas",
     "README.md",
-    "android/components/constrainLayout.md",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
