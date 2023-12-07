@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/button.md",
+                "file": "android/Android.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "android/components/button.md",
+            "file": "android/Android.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "android/components/button.md",
+            "file": "android/Android.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "android/components/button.md"
+            "file": "android/Android.md"
           }
         }
       }
@@ -151,6 +151,7 @@
   },
   "active": "cc59ca788e9acddd",
   "lastOpenFiles": [
+    "android/components/button.md",
     "android/components/overview.canvas",
     "android/nav/Count_of_navigatione.canvas",
     "android/basic-adb-commands.md",
