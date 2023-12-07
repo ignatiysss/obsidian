@@ -30,5 +30,22 @@
 - `adb shell list packages`: List package names.
 - `adb shell dump <name>`: List info on one package.
 
-### And more...
+ 
+ 
+### Fastboot Basics:
+- `fastboot devices`: Lists connected devices in fastboot mode.
+- `fastboot reboot`: Reboots the device.
+- `fastboot flash <partition> <image>`: Flash an image to a specific partition.
+- `fastboot erase <partition>`: Erase a specific partition.
+- `fastboot getvar <variable>`: Get variable information.
 
+##### Installing Magisk:
+1. Boot into fastboot mode.
+fastboot flash boot magisk_patched.img: Flash Magisk to the boot partition.
+fastboot reboot: Reboot the device.
+Magisk is now installed.
+Installing TWRP:
+Boot into fastboot mode.
+fastboot flash recovery twrp.img: Flash TWRP to the recovery partition.
+fastboot reboot recovery: Reboot into TWRP recovery.
+TWRP is now installed.
