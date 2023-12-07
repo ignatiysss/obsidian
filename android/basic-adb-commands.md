@@ -40,12 +40,12 @@
 - `fastboot getvar <variable>`: Get variable information.
 
 ##### Installing Magisk:
-1. Boot into fastboot mode.
-fastboot flash boot magisk_patched.img: Flash Magisk to the boot partition.
-fastboot reboot: Reboot the device.
-Magisk is now installed.
-Installing TWRP:
-Boot into fastboot mode.
-fastboot flash recovery twrp.img: Flash TWRP to the recovery partition.
-fastboot reboot recovery: Reboot into TWRP recovery.
-TWRP is now installed.
+###### Boot into fastboot mode.
+- `fastboot flash boot magisk_patched.img`: Flash Magisk to the boot partition.
+- `fastboot reboot`: Reboot the device.
+*Magisk is now installed.*
+##### Installing TWRP:
+###### Boot into fastboot mode.
+- `fastboot flash recovery twrp.img`: Flash TWRP to the recovery partition.
+- `fastboot reboot recovery`: Reboot into TWRP recovery.
+*TWRP is now installed.*
