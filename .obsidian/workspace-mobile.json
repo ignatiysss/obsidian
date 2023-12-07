@@ -11,14 +11,11 @@
             "id": "cc59ca788e9acddd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "android/components/overview.canvas",
-                "viewState": {
-                  "x": -460,
-                  "y": 186.5,
-                  "zoom": 0
-                }
+                "file": "android/Android.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "android/components/overview.canvas",
+            "file": "android/Android.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "android/components/overview.canvas",
+            "file": "android/Android.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -135,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "android/components/overview.canvas"
+            "file": "android/Android.md"
           }
         }
       }
@@ -154,6 +151,7 @@
   },
   "active": "cc59ca788e9acddd",
   "lastOpenFiles": [
+    "android/components/overview.canvas",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
     "arch_linux/kdeConnect.md",
@@ -178,7 +176,6 @@
     "/drawble/Screen_recording_animation_circularProgresBar.gif",
     "/android/components/overview.canvas",
     "android/components/lazyList.md",
-    "android/components/overview.canvas",
     "arch_linux/arch_linux_install.canvas"
   ]
 }
