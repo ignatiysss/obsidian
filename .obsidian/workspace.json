@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/project/Meditation/HomeScreen.md",
+                "file": "android/courses/Coroutines.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,26 +23,16 @@
             "id": "ccb14cb370831fd9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "drawble/Screen_recording_animation_circularProgresBar.gif"
-              }
-            }
-          },
-          {
-            "id": "5288d20bf7d09e5a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "android/courses/Coroutines.md",
+                "file": "android/courses/secret.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/courses/Coroutines.md",
+                "file": "android/courses/secret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/courses/Coroutines.md",
+                "file": "android/courses/secret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/courses/Coroutines.md"
+                "file": "android/courses/secret.md"
               }
             }
           },
@@ -187,18 +177,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5288d20bf7d09e5a",
+  "active": "ccb14cb370831fd9",
   "lastOpenFiles": [
-    "android/nav/Count_of_navigatione.canvas",
     "android/courses/Coroutines.md",
+    "android/courses/secret.md",
+    "drawble/CodeLabs.svg",
+    "drawble/Screen_recording_animation_circularProgresBar.gif",
+    "drawble/CodeLabs 1.svg",
+    "drawble/CodeLabs.svg.opdownload",
+    "android/components/project/Meditation/HomeScreen.md",
+    "drawble/arrangement.png",
+    "drawble/arrangement.png.opdownload",
+    "android/second_interview/helper for hint/firebase.md",
+    "android/nav/Count_of_navigatione.canvas",
     "android/components/snackbar.md",
     "android/components/overview.canvas",
     "android/components/lazyList.md",
     "android/components/FeatureFromMeditationUI.md",
     "android/components/constraintLayout.md",
     "android/components/button.md",
-    "drawble/Screen_recording_animation_circularProgresBar.gif",
-    "android/components/project/Meditation/HomeScreen.md",
     "stahov/Untitled.canvas",
     "stahov/Untitled.md",
     "arch_linux/kdeConnect.md",
@@ -214,7 +211,6 @@
     "android/components/animation/linearEasing.md",
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/fastOutLinearInEasing.md",
-    "android/second_interview/helper for hint/firebase.md",
     "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
@@ -223,21 +219,15 @@
     "drawble/1.png",
     "android/components/textField.md",
     "android/components/animation",
-    "drawble/Screen_recording_animation_LinearEasing.gif",
-    "drawble/Screen_recording_animation_LinearOutSlowInEasing.gif",
-    "drawble/Screen_recording_animation_FastOutLinearInEasing.gif",
     "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
     "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
     "drawble/Screen_recording_animation_LinearEasing 1.webm",
-    "drawble/Screen_recording_LinearOutSlowInEasing.webm",
-    "drawble/Screen_recording_animation_LinearEasing.webm",
     "android/Android.md",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
     "android/Untitled.md",
     "arch_linux/touchpad.md",
-    "README.md",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
