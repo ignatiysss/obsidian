@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/Android.md",
+                "file": "android/courses/secret.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "android/Android.md",
+            "file": "android/courses/secret.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "android/Android.md",
+            "file": "android/courses/secret.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +132,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "android/Android.md"
+            "file": "android/courses/secret.md"
           }
         }
       }
@@ -151,6 +151,7 @@
   },
   "active": "cc59ca788e9acddd",
   "lastOpenFiles": [
+    "android/Android.md",
     "drawble/arrangement.png",
     "drawble/CodeLabs.svg",
     "android/courses/secret.md",
@@ -161,7 +162,6 @@
     "android/components/overview.canvas",
     "android/nav/Count_of_navigatione.canvas",
     "android/basic-adb-commands.md",
-    "android/Android.md",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
     "arch_linux/kdeConnect.md",
