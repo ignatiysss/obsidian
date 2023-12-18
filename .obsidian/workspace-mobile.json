@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/Android.md",
+                "file": "android/components/project/Meditation/HomeScreen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c9ec3d111467901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "smart_home/Count of elements.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "android/Android.md",
+            "file": "smart_home/Count of elements.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "android/Android.md",
+            "file": "smart_home/Count of elements.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -132,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "android/Android.md"
+            "file": "smart_home/Count of elements.md"
           }
         }
       }
@@ -149,10 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc59ca788e9acddd",
+  "active": "5c9ec3d111467901",
   "lastOpenFiles": [
-    "android/components/overview.canvas",
+    "Untitled.md",
+    "smart_home/Count of elements.md",
+    "android/components/project/Meditation/HomeScreen.md",
+    "smart_home",
+    "arch_linux/touchpad.md",
+    "arch_linux/kdeConnect.md",
     "android/Android.md",
+    "android/components/overview.canvas",
     "android/nav/Count_of_navigatione.canvas",
     "android/basic-adb-commands.md",
     "android/courses/secret.md",
@@ -164,8 +183,6 @@
     "android/components/button.md",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
-    "arch_linux/kdeConnect.md",
-    "android/components/project/Meditation/HomeScreen.md",
     "android/components/FeatureFromMeditationUI.md",
     "stahov/Untitled.md",
     "/stahov/Untitled.canvas",
