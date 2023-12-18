@@ -30,9 +30,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "84225a2c39133c77",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "android/components/overview.canvas",
+                "viewState": {
+                  "x": -490,
+                  "y": 440,
+                  "zoom": -1.3255758719025066
+                }
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/courses/secret.md",
+                "file": "android/components/overview.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/courses/secret.md",
+                "file": "android/components/overview.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/courses/secret.md"
+                "file": "android/components/overview.canvas"
               }
             }
           },
@@ -159,13 +174,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d63c642bb6bcbaed",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 594
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +197,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "ccb14cb370831fd9",
+  "active": "d63c642bb6bcbaed",
   "lastOpenFiles": [
-    "android/courses/Coroutines.md",
+    "android/Android.md",
+    "piecesdb.json",
     "android/courses/secret.md",
+    "android/courses/Coroutines.md",
     "drawble/CodeLabs.svg",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
     "drawble/CodeLabs 1.svg",
@@ -221,8 +247,6 @@
     "android/components/animation",
     "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
     "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
-    "drawble/Screen_recording_animation_LinearEasing 1.webm",
-    "android/Android.md",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
