@@ -10,7 +10,7 @@ This repository is a collection of cheatsheets designed to help developers and L
 
 ## Contents
 
-- [Android Cheatsheets](/android/Android.md)
+- [Android](/android/Android.md)
   - [Basic ADB Commands](android/basic-adb-commands.md)
   - [Android Studio Shortcuts](android/android-studio-shortcuts.md)
   - [Android UI Design Tips](android/android-ui-design-tips.md)
