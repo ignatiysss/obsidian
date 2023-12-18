@@ -198,6 +198,8 @@
   },
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "drawble/obsidian_logo_image.png",
+    "drawble/obsidian_logo_image.png.opdownload",
     "android/components/overview.canvas",
     "README.md",
     "android/courses/Coroutines.md",
@@ -243,7 +245,6 @@
     "android/components/textField.md",
     "android/components/animation",
     "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
-    "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
