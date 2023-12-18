@@ -11,12 +11,8 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/courses/Coroutines.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -30,9 +26,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "05d0ac5d7ebe0e54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/courses/secret.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/courses/secret.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "android/courses/secret.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,13 +161,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "d63c642bb6bcbaed",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 594
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +184,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "ccb14cb370831fd9",
+  "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
     "android/courses/Coroutines.md",
     "android/courses/secret.md",
+    "android/components/overview.md",
+    "android/components/overview.canvas",
+    "android/Android.md",
+    "piecesdb.json",
     "drawble/CodeLabs.svg",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
     "drawble/CodeLabs 1.svg",
@@ -191,7 +206,6 @@
     "android/second_interview/helper for hint/firebase.md",
     "android/nav/Count_of_navigatione.canvas",
     "android/components/snackbar.md",
-    "android/components/overview.canvas",
     "android/components/lazyList.md",
     "android/components/FeatureFromMeditationUI.md",
     "android/components/constraintLayout.md",
@@ -221,13 +235,10 @@
     "android/components/animation",
     "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
     "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
-    "drawble/Screen_recording_animation_LinearEasing 1.webm",
-    "android/Android.md",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
     "android/Untitled.md",
-    "arch_linux/touchpad.md",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
