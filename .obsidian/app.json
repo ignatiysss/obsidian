@@ -36,5 +36,6 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "showInlineTitle": true,
-  "mobilePullAction": "obsidian-git:pull"
+  "mobilePullAction": "obsidian-git:pull",
+  "promptDelete": false
 }

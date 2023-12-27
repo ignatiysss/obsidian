@@ -16,7 +16,7 @@
 	Include = /etc/pacman.d/mirrorlist
 
 ## Install program from pacman 
-	sudo pacman -Syyu base-devel xorg xorg-xinit xorg-apps messa-libgl nvidia nvidia-settings gdm plasma konsole gnome git telegram-desktop nano ntfs-3g alsa-utils playerctl brightnessctl
+	sudo pacman -Syyu base-devel xorg xorg-xinit xorg-apps mesa nvidia nvidia-settings gdm plasma konsole gnome git telegram-desktop nano ntfs-3g alsa-utils playerctl brightnessctl
 
 ## Create directory for programs 
 	mkdir /home/ignatiys/program
