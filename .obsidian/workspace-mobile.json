@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/project/Meditation/HomeScreen.md",
+                "file": "android/components/textField.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5c9ec3d111467901",
+            "id": "7e15fd2c1ed07fee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "android/components/animation/animation.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "arch_linux/install_program.md",
+            "file": "android/components/animation/animation.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "arch_linux/install_program.md",
+            "file": "android/components/animation/animation.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "arch_linux/install_program.md"
+            "file": "android/components/animation/animation.md"
           }
         }
       }
@@ -164,22 +164,35 @@
   },
   "active": "cabe89b4462b4fa9",
   "lastOpenFiles": [
-    "arch_linux/arch_linux_install.canvas",
+    "README.md",
+    "LICENSE.md",
+    "drawble/top-app-bar.png",
+    "android/Android.md",
+    "android/components/overview.md",
+    "android/components/textField.md",
+    "android/components/snackbar.md",
+    "android/components/overview.canvas",
+    "android/components/lazyList.md",
+    "android/components/FeatureFromMeditationUI.md",
+    "android/components/constraintLayout.md",
+    "android/components/button.md",
     "android/components/project/Meditation/HomeScreen.md",
+    "android/components/animation/LinearOutSlowInEasing.md",
+    "android/components/animation/fastOutLinearInEasing.md",
+    "android/components/animation/CircularProgressBar.md",
+    "android/components/animation/animation.md",
+    "smart_home/Count of elements.md",
+    "arch_linux/install_program.md",
+    "arch_linux/arch_linux_install.canvas",
     "drawble/obsidian_logo_image.png",
     "/piecesdb.json",
     "/drawble/obsidian_logo_image.png",
     "/README.md",
-    "smart_home/Count of elements.md",
-    "android/components/overview.md",
     "piecesdb.json",
     "/android/components/overview.md",
-    "Untitled.md",
     "smart_home",
     "arch_linux/touchpad.md",
     "arch_linux/kdeConnect.md",
-    "android/Android.md",
-    "android/components/overview.canvas",
     "android/nav/Count_of_navigatione.canvas",
     "android/basic-adb-commands.md",
     "android/courses/secret.md",
@@ -188,27 +201,19 @@
     "/drawble/arrangement.png",
     "/drawble/CodeLabs.svg",
     "/android/courses/secret.md",
-    "android/components/button.md",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
-    "android/components/FeatureFromMeditationUI.md",
     "stahov/Untitled.md",
     "/stahov/Untitled.canvas",
     "/drawble/KdeConnectCommands",
     "/arch_linux/kdeConnect.md",
-    "/android/components/project/Meditation/HomeScreen.md",
-    "/android/components/FeatureFromMeditationUI.md",
-    "/stahov/Untitled.md",
     "stahov",
     "android/components/project/Meditation",
     "android/components/project",
     "/stahov",
     "/android/components/project/Meditation",
-    "().md",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
-    "/().md",
     "/drawble/Screen_recording_animation_circularProgresBar.gif",
-    "/android/components/overview.canvas",
-    "android/components/lazyList.md"
+    "/android/components/overview.canvas"
   ]
 }
