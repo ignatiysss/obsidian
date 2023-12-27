@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smart_home/Count of elements.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "smart_home/Count of elements.md",
+            "file": "android/components/project/Meditation/HomeScreen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "smart_home/Count of elements.md",
+            "file": "android/components/project/Meditation/HomeScreen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "smart_home/Count of elements.md"
+            "file": "android/components/project/Meditation/HomeScreen.md"
           }
         }
       }
@@ -162,10 +162,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9ec3d111467901",
+  "active": "cabe89b4462b4fa9",
   "lastOpenFiles": [
-    "Untitled.md",
+    "drawble/obsidian_logo_image.png",
+    "/piecesdb.json",
+    "/drawble/obsidian_logo_image.png",
+    "/README.md",
     "smart_home/Count of elements.md",
+    "android/components/overview.md",
+    "piecesdb.json",
+    "/android/components/overview.md",
+    "Untitled.md",
     "android/components/project/Meditation/HomeScreen.md",
     "smart_home",
     "arch_linux/touchpad.md",
@@ -196,7 +203,6 @@
     "android/components/project",
     "/stahov",
     "/android/components/project/Meditation",
-    "/android/components/project",
     "().md",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
     "/().md",
