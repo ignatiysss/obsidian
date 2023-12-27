@@ -23,8 +23,12 @@
             "id": "5c9ec3d111467901",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arch_linux/install_program.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -112,6 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "arch_linux/install_program.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -128,6 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "arch_linux/install_program.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -138,7 +144,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "arch_linux/install_program.md"
+          }
         }
       }
     ],
@@ -154,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c9ec3d111467901",
+  "active": "cabe89b4462b4fa9",
   "lastOpenFiles": [
+    "arch_linux/arch_linux_install.canvas",
     "android/components/project/Meditation/HomeScreen.md",
     "drawble/obsidian_logo_image.png",
     "/piecesdb.json",
@@ -200,7 +209,6 @@
     "/().md",
     "/drawble/Screen_recording_animation_circularProgresBar.gif",
     "/android/components/overview.canvas",
-    "android/components/lazyList.md",
-    "arch_linux/arch_linux_install.canvas"
+    "android/components/lazyList.md"
   ]
 }
