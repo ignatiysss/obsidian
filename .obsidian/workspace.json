@@ -11,8 +11,12 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -31,11 +35,8 @@
             "id": "05d0ac5d7ebe0e54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -104,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -190,10 +195,13 @@
   },
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "drawble/obsidian_logo_image.png",
+    "drawble/obsidian_logo_image.png.opdownload",
+    "android/components/overview.canvas",
+    "README.md",
     "android/courses/Coroutines.md",
     "android/courses/secret.md",
     "android/components/overview.md",
-    "android/components/overview.canvas",
     "android/Android.md",
     "piecesdb.json",
     "drawble/CodeLabs.svg",
@@ -234,11 +242,9 @@
     "android/components/textField.md",
     "android/components/animation",
     "drawble/Screen_recording_animation_FastOutLinearInEasing.webm",
-    "drawble/Screen_recording_animation_LinearOutSlowInEasing.webm",
     "android/android-studio-shortcuts.md",
     "android/basic-adb-commands.md",
     "arch_linux/arch_linux_install.canvas",
-    "android/Untitled.md",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
