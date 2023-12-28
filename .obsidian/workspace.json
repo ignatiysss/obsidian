@@ -168,9 +168,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "85d58569e93378e2",
+            "type": "leaf",
+            "state": {
+              "type": "pieces-snippet-list",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -187,7 +195,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "e6fe29a88d21d808",
+  "active": "85d58569e93378e2",
   "lastOpenFiles": [
     "smart_home/Count of elements.md",
     "smart_home",
