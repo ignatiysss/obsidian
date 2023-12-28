@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "arch_linux/touchpad.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "arch_linux/touchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/install_program.md",
+                "file": "arch_linux/touchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/install_program.md"
+                "file": "arch_linux/touchpad.md"
               }
             }
           },
@@ -195,8 +195,9 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "85d58569e93378e2",
+  "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "arch_linux/install_program.md",
     "smart_home/Count of elements.md",
     "smart_home",
     "LICENSE.md",
@@ -238,7 +239,6 @@
     "android/components/animation/linearEasing.md",
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/fastOutLinearInEasing.md",
-    "arch_linux/install_program.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
     "drawble/obsidian_hotkey_3.png",
