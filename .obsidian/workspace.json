@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/touchpad.md",
-                "mode": "source",
+                "file": "arch_linux/kdeConnect.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "arch_linux/kdeConnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "arch_linux/kdeConnect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/touchpad.md"
+                "file": "arch_linux/kdeConnect.md"
               }
             }
           },
@@ -197,6 +197,7 @@
   },
   "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
+    "arch_linux/touchpad.md",
     "arch_linux/install_program.md",
     "smart_home/Count of elements.md",
     "smart_home",
@@ -245,7 +246,6 @@
     "drawble/Pasted image.png",
     "android/components/textField.md",
     "android/components/animation",
-    "android/android-studio-shortcuts.md",
     "arch_linux/arch_linux_install.canvas",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
