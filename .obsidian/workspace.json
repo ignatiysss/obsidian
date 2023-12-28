@@ -11,12 +11,8 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "arch_linux/kdeConnect.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -105,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/kdeConnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/kdeConnect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "arch_linux/kdeConnect.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +162,7 @@
             }
           },
           {
-            "id": "85d58569e93378e2",
+            "id": "a533db915b6f18d2",
             "type": "leaf",
             "state": {
               "type": "pieces-snippet-list",
@@ -195,8 +187,9 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "e6fe29a88d21d808",
+  "active": "a533db915b6f18d2",
   "lastOpenFiles": [
+    "arch_linux/kdeConnect.md",
     "arch_linux/touchpad.md",
     "arch_linux/install_program.md",
     "smart_home/Count of elements.md",
@@ -227,7 +220,6 @@
     "android/components/button.md",
     "stahov/Untitled.canvas",
     "stahov/Untitled.md",
-    "arch_linux/kdeConnect.md",
     "drawble/KdeConnectCommands",
     "stahov",
     "().md",
