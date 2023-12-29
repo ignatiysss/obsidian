@@ -11,8 +11,12 @@
             "id": "e6fe29a88d21d808",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arch_linux/kdeConnect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "arch_linux/kdeConnect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "arch_linux/kdeConnect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "arch_linux/kdeConnect.md"
+              }
             }
           },
           {
@@ -187,7 +195,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "a533db915b6f18d2",
+  "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
     "arch_linux/kdeConnect.md",
     "arch_linux/touchpad.md",
