@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "smart_home/Count of elements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5f9a9d060edcb65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -116,7 +128,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LICENSE.md",
+            "file": "Notion template.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +145,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LICENSE.md",
+            "file": "Notion template.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +157,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LICENSE.md"
+            "file": "Notion template.md"
           }
         }
       }
@@ -162,13 +174,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7e15fd2c1ed07fee",
+  "active": "d5f9a9d060edcb65",
   "lastOpenFiles": [
+    "smart_home/Count of elements.md",
+    "Notion template.md",
+    "LICENSE.md",
     "android/components/textField.md",
     "android/components/animation/animation.md",
     "/LICENSE.md",
     "README.md",
-    "LICENSE.md",
     "drawble/top-app-bar.png",
     "android/Android.md",
     "android/components/overview.md",
@@ -182,7 +196,6 @@
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/fastOutLinearInEasing.md",
     "android/components/animation/CircularProgressBar.md",
-    "smart_home/Count of elements.md",
     "arch_linux/install_program.md",
     "arch_linux/arch_linux_install.canvas",
     "drawble/obsidian_logo_image.png",
@@ -204,7 +217,6 @@
     "/android/courses/secret.md",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
-    "stahov/Untitled.md",
     "/stahov/Untitled.canvas",
     "/drawble/KdeConnectCommands",
     "stahov",
