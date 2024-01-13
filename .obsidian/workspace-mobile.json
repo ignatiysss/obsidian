@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/components/animation/animation.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "android/components/animation/animation.md",
+            "file": "LICENSE.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "android/components/animation/animation.md",
+            "file": "LICENSE.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "android/components/animation/animation.md"
+            "file": "LICENSE.md"
           }
         }
       }
@@ -162,14 +162,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cabe89b4462b4fa9",
+  "active": "7e15fd2c1ed07fee",
   "lastOpenFiles": [
+    "android/components/textField.md",
+    "android/components/animation/animation.md",
+    "/LICENSE.md",
     "README.md",
     "LICENSE.md",
     "drawble/top-app-bar.png",
     "android/Android.md",
     "android/components/overview.md",
-    "android/components/textField.md",
     "android/components/snackbar.md",
     "android/components/overview.canvas",
     "android/components/lazyList.md",
@@ -180,7 +182,6 @@
     "android/components/animation/LinearOutSlowInEasing.md",
     "android/components/animation/fastOutLinearInEasing.md",
     "android/components/animation/CircularProgressBar.md",
-    "android/components/animation/animation.md",
     "smart_home/Count of elements.md",
     "arch_linux/install_program.md",
     "arch_linux/arch_linux_install.canvas",
@@ -206,7 +207,6 @@
     "stahov/Untitled.md",
     "/stahov/Untitled.canvas",
     "/drawble/KdeConnectCommands",
-    "/arch_linux/kdeConnect.md",
     "stahov",
     "android/components/project/Meditation",
     "android/components/project",
