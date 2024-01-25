@@ -19,11 +19,14 @@
             "id": "fb15d300e17b665d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "android/components/textField.md",
-                "mode": "source",
-                "source": false
+                "file": "arch_linux/arch_linux_install.canvas",
+                "viewState": {
+                  "x": -1592.5363636363638,
+                  "y": -219.73863636363603,
+                  "zoom": 0.5525410230287786
+                }
               }
             }
           },
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/components/textField.md",
+                "file": "arch_linux/arch_linux_install.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/components/textField.md",
+                "file": "arch_linux/arch_linux_install.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/components/textField.md"
+                "file": "arch_linux/arch_linux_install.canvas"
               }
             }
           },
@@ -204,14 +207,16 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fb15d300e17b665d",
+  "active": "98ade20e0691fab3",
   "lastOpenFiles": [
+    "arch_linux/pieces",
+    "arch_linux/install_program.md",
+    "android/components/textField.md",
     "android/components/overview.canvas",
     "android/components/overview.md",
     "arch_linux/kdeConnect.md",
     "Notion template.md",
     "arch_linux/touchpad.md",
-    "arch_linux/install_program.md",
     "smart_home/Count of elements.md",
     "smart_home",
     "LICENSE.md",
@@ -248,7 +253,6 @@
     "android/components/animation/animation.md",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
     "android/components/animation/linearEasing.md",
-    "android/components/animation/LinearOutSlowInEasing.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
     "drawble/obsidian_hotkey_3.png",
