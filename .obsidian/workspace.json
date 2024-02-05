@@ -19,14 +19,11 @@
             "id": "fb15d300e17b665d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "arch_linux/arch_linux_install.canvas",
-                "viewState": {
-                  "x": -1592.5363636363638,
-                  "y": -219.73863636363603,
-                  "zoom": 0.5525410230287786
-                }
+                "file": "arch_linux/touchpad.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -117,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/arch_linux_install.canvas",
+                "file": "arch_linux/touchpad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/arch_linux_install.canvas",
+                "file": "arch_linux/touchpad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/arch_linux_install.canvas"
+                "file": "arch_linux/touchpad.md"
               }
             }
           },
@@ -207,7 +204,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "98ade20e0691fab3",
+  "active": "fb15d300e17b665d",
   "lastOpenFiles": [
     "current.zip",
     "arch_linux/pieces",

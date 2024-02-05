@@ -1,4 +1,4 @@
-5## Install dependencies
+## Install dependencies
 	sudo pacman -S  alsa-utils playerctl brightnessctl
 
 
