@@ -21,8 +21,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/touchpad.md",
-                "mode": "preview",
+                "file": "LICENSE.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/touchpad.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -206,6 +206,9 @@
   },
   "active": "fb15d300e17b665d",
   "lastOpenFiles": [
+    "arch_linux/arch_linux_install.canvas",
+    "android/Android.md",
+    "arch_linux/touchpad.md",
     "current.zip",
     "arch_linux/pieces",
     "arch_linux/install_program.md",
@@ -214,7 +217,6 @@
     "android/components/overview.md",
     "arch_linux/kdeConnect.md",
     "Notion template.md",
-    "arch_linux/touchpad.md",
     "smart_home/Count of elements.md",
     "smart_home",
     "LICENSE.md",
@@ -223,7 +225,6 @@
     "drawble/obsidian_logo_image.png.opdownload",
     "android/courses/Coroutines.md",
     "android/courses/secret.md",
-    "android/Android.md",
     "piecesdb.json",
     "drawble/CodeLabs.svg",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
@@ -245,7 +246,6 @@
     "stahov",
     "().md",
     "android/components/project/Meditation",
-    "android/components/project",
     "Untitled.md",
     "android/components/animation/CircularProgressBar.md",
     "android/components/animation/animation.md",
@@ -255,7 +255,6 @@
     "drawble/obsidian_hotkey_1.png",
     "drawble/obsidian_hotkey_3.png",
     "drawble/Pasted image.png",
-    "arch_linux/arch_linux_install.canvas",
     "Untitled.canvas",
     "android/nav/Count of navigation.canvas",
     "arch_linux (1)/arch_linux_install.canvas"
