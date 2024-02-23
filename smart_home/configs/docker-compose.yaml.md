@@ -23,7 +23,7 @@
 	      - 9001:9001
 	    networks:
 	      my_network:
-	        ipv4_address: 172.19.0.3  # Updated to the new subnet
+	        ipv4_address: 172.19.0.3  
 	
 	  zigbee2mqtt:
 	    container_name: zigbee2mqtt
@@ -35,13 +35,13 @@
 	    ports:
 	      - 8080:8080
 	    environment:
-	      - MQTT_SERVER=mqtt://172.19.0.3  # Updated to the new subnet
+	      - MQTT_SERVER=mqtt://172.19.0.3
 	      - TZ=Europe/Dublin
 	    devices:
 	      - /dev/ttyACM0:/dev/ttyACM0
 	    networks:
 	      my_network:
-	        ipv4_address: 172.19.0.4  # Updated to the new subnet
+	        ipv4_address: 172.19.0.4
 	
 	  portainer:
 	    container_name: portainer
@@ -56,7 +56,7 @@
 	      - /opt/portainer:/data
 	    networks:
 	      my_network:
-	        ipv4_address: 172.19.0.5  # Updated to the new subnet
+	        ipv4_address: 172.19.0.5
 	
 	networks:
 	  my_network:

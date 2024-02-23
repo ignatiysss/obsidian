@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mqtt.md",
+                "file": "smart_home/configs/docker-compose.yaml.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mqtt.md",
+                "file": "smart_home/configs/docker-compose.yaml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mqtt.md",
+                "file": "smart_home/configs/docker-compose.yaml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mqtt.md"
+                "file": "smart_home/configs/docker-compose.yaml.md"
               }
             }
           },
@@ -207,14 +207,15 @@
   "active": "fb15d300e17b665d",
   "lastOpenFiles": [
     "smart_home/configs/zigbee2mqtt.yaml.md",
+    "smart_home/installing system.md",
+    "arch_linux/arch_linux_install.canvas",
+    "smart_home/configs/mqtt.md",
     "Untitled 1.md",
-    "mqtt.md",
     "smart_home/configs/docker-compose.yaml.md",
     "smart_home/Count of elements.md",
     "smart_home/configs",
     "android/courses/secret.md",
     "LICENSE.md",
-    "arch_linux/arch_linux_install.canvas",
     "android/Android.md",
     "arch_linux/touchpad.md",
     "current.zip",
@@ -249,8 +250,6 @@
     "stahov/Untitled.md",
     "drawble/KdeConnectCommands",
     "stahov",
-    "().md",
-    "android/components/animation/CircularProgressBar.md",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",

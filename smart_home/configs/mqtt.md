@@ -1,8 +1,4 @@
-##### create new directory and file
-	mkdir /opt/mosquitto/
-	mkdir /opt/mosquitto/config
-	nano /opt/mosquitto/config/mosquitto.conf
-##### sudo
+##### Create new directory and file
 	sudo mkdir /opt/mosquitto/
 	sudo mkdir /opt/mosquitto/config
 	sudo nano /opt/mosquitto/config/mosquitto.conf
@@ -15,7 +11,7 @@
 	## Authentication ##
 	allow_anonymous false
 	password_file /mosquitto/config/password.txt
-
-##### open portainer and run this command in sh
+##### Open in terminal same command
+	sudo docker exec -it mosquitto sh
+##### And run this command in sh
 	mosquitto_passwd -c /mosquitto/config/password.txt USER_NAME
-
