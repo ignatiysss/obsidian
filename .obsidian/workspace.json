@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "mqtt.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "mqtt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "mqtt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "mqtt.md"
               }
             }
           },
@@ -206,6 +206,14 @@
   },
   "active": "fb15d300e17b665d",
   "lastOpenFiles": [
+    "smart_home/configs/zigbee2mqtt.yaml.md",
+    "Untitled 1.md",
+    "mqtt.md",
+    "smart_home/configs/docker-compose.yaml.md",
+    "smart_home/Count of elements.md",
+    "smart_home/configs",
+    "android/courses/secret.md",
+    "LICENSE.md",
     "arch_linux/arch_linux_install.canvas",
     "android/Android.md",
     "arch_linux/touchpad.md",
@@ -217,14 +225,11 @@
     "android/components/overview.md",
     "arch_linux/kdeConnect.md",
     "Notion template.md",
-    "smart_home/Count of elements.md",
     "smart_home",
-    "LICENSE.md",
     "README.md",
     "drawble/obsidian_logo_image.png",
     "drawble/obsidian_logo_image.png.opdownload",
     "android/courses/Coroutines.md",
-    "android/courses/secret.md",
     "piecesdb.json",
     "drawble/CodeLabs.svg",
     "drawble/Screen_recording_animation_circularProgresBar.gif",
@@ -245,12 +250,8 @@
     "drawble/KdeConnectCommands",
     "stahov",
     "().md",
-    "android/components/project/Meditation",
-    "Untitled.md",
     "android/components/animation/CircularProgressBar.md",
-    "android/components/animation/animation.md",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
-    "android/components/animation/linearEasing.md",
     "drawble/obsidian_hotkey_2.png",
     "drawble/obsidian_hotkey_1.png",
     "drawble/obsidian_hotkey_3.png",
