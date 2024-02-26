@@ -191,7 +191,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 594
+    "width": 594,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +205,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "98ade20e0691fab3",
+  "active": "a533db915b6f18d2",
   "lastOpenFiles": [
     "android/components/textField.md",
     "android/components/overview.canvas",
