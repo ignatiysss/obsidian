@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "smart_home/configs/docker-compose.yaml.md",
+                "file": "LICENSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "smart_home/configs/docker-compose.yaml.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "smart_home/configs/docker-compose.yaml.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "smart_home/configs/docker-compose.yaml.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -204,14 +204,16 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fb15d300e17b665d",
+  "active": "98ade20e0691fab3",
   "lastOpenFiles": [
+    "android/components/textField.md",
+    "android/components/overview.canvas",
+    "smart_home/configs/docker-compose.yaml.md",
     "smart_home/configs/zigbee2mqtt.yaml.md",
     "smart_home/installing system.md",
     "arch_linux/arch_linux_install.canvas",
     "smart_home/configs/mqtt.md",
     "Untitled 1.md",
-    "smart_home/configs/docker-compose.yaml.md",
     "smart_home/Count of elements.md",
     "smart_home/configs",
     "android/courses/secret.md",
@@ -221,8 +223,6 @@
     "current.zip",
     "arch_linux/pieces",
     "arch_linux/install_program.md",
-    "android/components/textField.md",
-    "android/components/overview.canvas",
     "android/components/overview.md",
     "arch_linux/kdeConnect.md",
     "Notion template.md",
