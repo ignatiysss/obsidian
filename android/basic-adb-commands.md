@@ -49,3 +49,7 @@
 - `fastboot flash recovery twrp.img`: Flash TWRP to the recovery partition.
 - `fastboot reboot recovery`: Reboot into TWRP recovery.
 *TWRP is now installed.*
+
+
+
+adb pull /storage/emulated/0/Download/1.mp4 /home/ignatiys/Downloads/

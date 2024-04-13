@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LICENSE.md",
+                "file": "android/basic-adb-commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LICENSE.md",
+                "file": "android/basic-adb-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LICENSE.md",
+                "file": "android/basic-adb-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LICENSE.md"
+                "file": "android/basic-adb-commands.md"
               }
             }
           },
@@ -205,8 +205,11 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "a533db915b6f18d2",
+  "active": "fb15d300e17b665d",
   "lastOpenFiles": [
+    "arch_linux/touchpad.md",
+    "arch_linux/install_program.md",
+    "arch_linux/kdeConnect.md",
     "android/components/textField.md",
     "android/components/overview.canvas",
     "smart_home/configs/docker-compose.yaml.md",
@@ -220,12 +223,9 @@
     "android/courses/secret.md",
     "LICENSE.md",
     "android/Android.md",
-    "arch_linux/touchpad.md",
     "current.zip",
     "arch_linux/pieces",
-    "arch_linux/install_program.md",
     "android/components/overview.md",
-    "arch_linux/kdeConnect.md",
     "Notion template.md",
     "smart_home",
     "README.md",
