@@ -52,4 +52,4 @@
 
 
 
-adb pull /storage/emulated/0/Download/1.mp4 /home/ignatiys/Downloads/
+	adb pull /storage/emulated/0/Download/1.mp4 /home/ignatiys/Downloads/
