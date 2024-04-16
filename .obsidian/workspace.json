@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "75bdd85bd16c5a30",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
             "id": "ccb14cb370831fd9",
             "type": "leaf",
             "state": {
@@ -48,7 +58,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +215,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fb15d300e17b665d",
+  "active": "75bdd85bd16c5a30",
   "lastOpenFiles": [
     "arch_linux/touchpad.md",
     "arch_linux/install_program.md",
