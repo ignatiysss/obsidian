@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/ssh.md",
+                "file": "Notion template.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/ssh.md",
+                "file": "Notion template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/ssh.md",
+                "file": "Notion template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/ssh.md"
+                "file": "Notion template.md"
               }
             }
           },
@@ -219,8 +219,9 @@
   },
   "active": "75bdd85bd16c5a30",
   "lastOpenFiles": [
-    "android/Android.md",
+    "README.md",
     "android/ssh.md",
+    "android/Android.md",
     "arch_linux/touchpad.md",
     "arch_linux/kdeConnect.md",
     "android/basic-adb-commands.md",
@@ -242,7 +243,6 @@
     "android/components/overview.md",
     "Notion template.md",
     "smart_home",
-    "README.md",
     "drawble/obsidian_logo_image.png",
     "drawble/obsidian_logo_image.png.opdownload",
     "android/courses/Coroutines.md",
