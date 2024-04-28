@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/Android.md",
+                "file": "android/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/Android.md",
+                "file": "android/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/Android.md",
+                "file": "android/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/Android.md"
+                "file": "android/ssh.md"
               }
             }
           },
@@ -219,6 +219,8 @@
   },
   "active": "75bdd85bd16c5a30",
   "lastOpenFiles": [
+    "android/Android.md",
+    "android/ssh.md",
     "arch_linux/touchpad.md",
     "arch_linux/kdeConnect.md",
     "android/basic-adb-commands.md",
@@ -235,7 +237,6 @@
     "smart_home/configs",
     "android/courses/secret.md",
     "LICENSE.md",
-    "android/Android.md",
     "current.zip",
     "arch_linux/pieces",
     "android/components/overview.md",
@@ -261,7 +262,6 @@
     "android/components/constraintLayout.md",
     "android/components/button.md",
     "stahov/Untitled.canvas",
-    "stahov/Untitled.md",
     "drawble/KdeConnectCommands",
     "stahov",
     "drawble/photo_2021_11_02_13_09_45_rotated_.jpg",
