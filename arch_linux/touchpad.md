@@ -20,3 +20,5 @@
 	gesture swipe right 4 playerctl next  
 	gesture pinch in 3 brightnessctl set 1%  
 	gesture pinch out 3 brightnessctl set +7.5%
+
+
