@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion template.md",
+                "file": "android/ssh.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,8 +59,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +125,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +141,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,9 +162,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notion template.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,14 +212,15 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "75bdd85bd16c5a30",
+  "active": "e6fe29a88d21d808",
   "lastOpenFiles": [
-    "README.md",
+    "android/basic-adb-commands.md",
     "android/ssh.md",
+    "Notion template.md",
+    "README.md",
     "android/Android.md",
     "arch_linux/touchpad.md",
     "arch_linux/kdeConnect.md",
-    "android/basic-adb-commands.md",
     "arch_linux/install_program.md",
     "android/components/textField.md",
     "android/components/overview.canvas",
@@ -241,7 +237,6 @@
     "current.zip",
     "arch_linux/pieces",
     "android/components/overview.md",
-    "Notion template.md",
     "smart_home",
     "drawble/obsidian_logo_image.png",
     "drawble/obsidian_logo_image.png.opdownload",

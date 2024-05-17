@@ -53,3 +53,4 @@
 
 
 	adb pull /storage/emulated/0/Download/1.mp4 /home/ignatiys/Downloads/
+	adb shell pm grant com.google.android.apps.fitness  android.permission.BODY_SENSORS
