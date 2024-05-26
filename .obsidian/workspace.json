@@ -59,7 +59,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -125,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "android/ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "android/ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "android/ssh.md"
+              }
             }
           },
           {
@@ -212,7 +217,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "e6fe29a88d21d808",
+  "active": "75bdd85bd16c5a30",
   "lastOpenFiles": [
     "android/basic-adb-commands.md",
     "android/ssh.md",
