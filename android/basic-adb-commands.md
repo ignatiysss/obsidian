@@ -54,3 +54,12 @@
 
 	adb pull /storage/emulated/0/Download/1.mp4 /home/ignatiys/Downloads/
 	adb shell pm grant com.google.android.apps.fitness  android.permission.BODY_SENSORS
+
+
+	AIzaSyCa18xz7vvWUcsu62OG_hFcEyJKMLB0F78
+
+#### Something
+	su
+	setprop service.adb.tcp.port 5555
+	stop adbd
+	start adbd

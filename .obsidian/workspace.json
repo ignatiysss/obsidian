@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/ssh.md",
+                "file": "android/Android.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/ssh.md",
+                "file": "android/basic-adb-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/ssh.md",
+                "file": "android/basic-adb-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/ssh.md"
+                "file": "android/basic-adb-commands.md"
               }
             }
           },
@@ -217,13 +217,13 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "75bdd85bd16c5a30",
+  "active": "fb15d300e17b665d",
   "lastOpenFiles": [
-    "android/basic-adb-commands.md",
     "android/ssh.md",
+    "android/basic-adb-commands.md",
+    "android/Android.md",
     "Notion template.md",
     "README.md",
-    "android/Android.md",
     "arch_linux/touchpad.md",
     "arch_linux/kdeConnect.md",
     "arch_linux/install_program.md",
