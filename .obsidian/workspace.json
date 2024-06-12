@@ -28,6 +28,16 @@
             }
           },
           {
+            "id": "95f5e6d91b3ea9ea",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "75bdd85bd16c5a30",
             "type": "leaf",
             "state": {
@@ -60,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -217,7 +227,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fb15d300e17b665d",
+  "active": "95f5e6d91b3ea9ea",
   "lastOpenFiles": [
     "android/ssh.md",
     "android/basic-adb-commands.md",
