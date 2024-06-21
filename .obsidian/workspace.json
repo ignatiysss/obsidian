@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,7 +227,7 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "95f5e6d91b3ea9ea",
+  "active": "fb15d300e17b665d",
   "lastOpenFiles": [
     "android/ssh.md",
     "android/basic-adb-commands.md",
