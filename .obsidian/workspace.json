@@ -21,41 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch_linux/touchpad.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95f5e6d91b3ea9ea",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.3"
-              }
-            }
-          },
-          {
-            "id": "75bdd85bd16c5a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/Android.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccb14cb370831fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "android/courses/secret.md",
+                "file": "arch_linux/install_program.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +31,16 @@
             "id": "05d0ac5d7ebe0e54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "android/basic-adb-commands.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "android/basic-adb-commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch_linux/touchpad.md",
+                "file": "android/basic-adb-commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch_linux/touchpad.md"
+                "file": "android/basic-adb-commands.md"
               }
             }
           },
@@ -227,18 +197,20 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "fb15d300e17b665d",
+  "active": "05d0ac5d7ebe0e54",
   "lastOpenFiles": [
+    "android/android-studio-shortcuts.md",
     "arch_linux/arch_linux_install.canvas",
     "arch_linux/install_program.md",
     "arch_linux/kdeConnect.md",
+    "android/courses/secret.md",
+    "android/Android.md",
+    "arch_linux/touchpad.md",
     "smart_home/Count of elements.md",
     "android/basic-adb-commands.md",
     "android/ssh.md",
-    "android/Android.md",
     "Notion template.md",
     "README.md",
-    "arch_linux/touchpad.md",
     "android/components/textField.md",
     "android/components/overview.canvas",
     "smart_home/configs/docker-compose.yaml.md",
@@ -247,7 +219,6 @@
     "smart_home/configs/mqtt.md",
     "Untitled 1.md",
     "smart_home/configs",
-    "android/courses/secret.md",
     "LICENSE.md",
     "current.zip",
     "arch_linux/pieces",
