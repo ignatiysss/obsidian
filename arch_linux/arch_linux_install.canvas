@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"pacstrap  /mnt base base-devel linux linux-headers linux-firmware sudo nano networkmanager gdisk refind ","id":"a6ba8ddf652e0f8c","x":-320,"y":-680,"width":250,"height":210},
+		{"type":"text","text":"pacstrap  /mnt base base-devel linux linux-headers linux-firmware sudo nano networkmanager gdisk refind sof-firmware","id":"a6ba8ddf652e0f8c","x":-320,"y":-680,"width":250,"height":210},
 		{"type":"text","text":"systemctl enable NetworkManager","id":"06de37569d148d9e","x":-320,"y":450,"width":250,"height":60},
 		{"type":"text","text":"useradd -m -g users -G wheel -s /bin/bash ignatiys","id":"c82dc1db9358a64b","x":-320,"y":550,"width":250,"height":100},
 		{"type":"text","text":"passwd\n","id":"c7b896b85a3cd9e0","x":-320,"y":700,"width":250,"height":60},
