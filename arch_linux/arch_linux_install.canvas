@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"type":"text","text":"pacstrap  /mnt base base-devel linux linux-headers linux-firmware sudo nano networkmanager gdisk refind","id":"a6ba8ddf652e0f8c","x":-320,"y":-680,"width":250,"height":210},
+		{"type":"text","text":"pacstrap  /mnt base base-devel linux linux-headers linux-firmware sudo nano networkmanager gdisk refind ","id":"a6ba8ddf652e0f8c","x":-320,"y":-680,"width":250,"height":210},
 		{"type":"text","text":"systemctl enable NetworkManager","id":"06de37569d148d9e","x":-320,"y":450,"width":250,"height":60},
 		{"type":"text","text":"useradd -m -g users -G wheel -s /bin/bash ignatiys","id":"c82dc1db9358a64b","x":-320,"y":550,"width":250,"height":100},
 		{"type":"text","text":"passwd\n","id":"c7b896b85a3cd9e0","x":-320,"y":700,"width":250,"height":60},
@@ -20,7 +20,7 @@
 		{"type":"text","text":"mkswap","id":"3abcf557243cbb7d","x":-320,"y":-980,"width":250,"height":60},
 		{"type":"text","text":"mount ","id":"733cdd48accc6e09","x":-320,"y":-880,"width":250,"height":60},
 		{"type":"text","text":"swapon","id":"8f2532e3b3640363","x":-320,"y":-780,"width":250,"height":60},
-		{"id":"172936e98e55fd4a","x":-320,"y":1120,"width":250,"height":60,"type":"text","text":"reboot"}
+		{"id":"172936e98e55fd4a","type":"text","text":"reboot","x":-320,"y":1120,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"5b52c681ac1a4af6","fromNode":"99ffdb72b7503cc2","fromSide":"bottom","toNode":"3fe710ad913f6aec","toSide":"top"},

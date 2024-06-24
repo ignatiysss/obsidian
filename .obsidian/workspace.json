@@ -19,11 +19,14 @@
             "id": "fb15d300e17b665d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "android/basic-adb-commands.md",
-                "mode": "preview",
-                "source": false
+                "file": "arch_linux/arch_linux_install.canvas",
+                "viewState": {
+                  "x": -114.14282052424741,
+                  "y": -538.6193391289711,
+                  "zoom": 0.30254102302877894
+                }
               }
             }
           },
@@ -136,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/basic-adb-commands.md",
+                "file": "arch_linux/arch_linux_install.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/basic-adb-commands.md",
+                "file": "arch_linux/arch_linux_install.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/basic-adb-commands.md"
+                "file": "arch_linux/arch_linux_install.canvas"
               }
             }
           },
@@ -229,23 +232,23 @@
   },
   "active": "fb15d300e17b665d",
   "lastOpenFiles": [
-    "android/ssh.md",
+    "arch_linux/install_program.md",
+    "arch_linux/arch_linux_install.canvas",
+    "arch_linux/kdeConnect.md",
+    "smart_home/Count of elements.md",
     "android/basic-adb-commands.md",
+    "android/ssh.md",
     "android/Android.md",
     "Notion template.md",
     "README.md",
     "arch_linux/touchpad.md",
-    "arch_linux/kdeConnect.md",
-    "arch_linux/install_program.md",
     "android/components/textField.md",
     "android/components/overview.canvas",
     "smart_home/configs/docker-compose.yaml.md",
     "smart_home/configs/zigbee2mqtt.yaml.md",
     "smart_home/installing system.md",
-    "arch_linux/arch_linux_install.canvas",
     "smart_home/configs/mqtt.md",
     "Untitled 1.md",
-    "smart_home/Count of elements.md",
     "smart_home/configs",
     "android/courses/secret.md",
     "LICENSE.md",
@@ -270,7 +273,6 @@
     "android/components/lazyList.md",
     "android/components/FeatureFromMeditationUI.md",
     "android/components/constraintLayout.md",
-    "android/components/button.md",
     "stahov/Untitled.canvas",
     "drawble/KdeConnectCommands",
     "stahov",
