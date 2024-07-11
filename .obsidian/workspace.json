@@ -33,8 +33,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "android/basic-adb-commands.md",
-                "mode": "preview",
+                "file": "LICENSE.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "android/basic-adb-commands.md",
+                "file": "LICENSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "android/basic-adb-commands.md",
+                "file": "LICENSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "android/basic-adb-commands.md"
+                "file": "LICENSE.md"
               }
             }
           },
@@ -197,8 +197,9 @@
       "pieces-for-developers:Pieces For Developers": false
     }
   },
-  "active": "98ade20e0691fab3",
+  "active": "05d0ac5d7ebe0e54",
   "lastOpenFiles": [
+    "android/ssh.md",
     "arch_linux/fonts/noto/NotoColorEmoji.ttf",
     "arch_linux/fonts/noto",
     "arch_linux/fonts/gsfonts/Z003-MediumItalic.otf",
@@ -209,7 +210,6 @@
     "arch_linux/fonts/gsfonts/URWBookman-LightItalic.otf",
     "arch_linux/fonts/gsfonts/URWBookman-Light.otf",
     "arch_linux/fonts/gsfonts/URWBookman-DemiItalic.otf",
-    "arch_linux/fonts/gsfonts/URWBookman-Demi.otf",
     "android/android-studio-shortcuts.md",
     "arch_linux/arch_linux_install.canvas",
     "arch_linux/install_program.md",
@@ -219,7 +219,6 @@
     "arch_linux/touchpad.md",
     "smart_home/Count of elements.md",
     "android/basic-adb-commands.md",
-    "android/ssh.md",
     "Notion template.md",
     "README.md",
     "android/components/textField.md",
